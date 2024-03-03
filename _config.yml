@@ -20,12 +20,12 @@ author: Robin Luo
 ###############################################
 
 navbar-links:
-  About Lab: "aboutme"
-  Publications: "publications"
+  Group's home: "aboutlab"
+  Publications: "publication"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  Lab's home: "https://genaimed.org"
+  Team Member: "teammember"
   Join Us: "joinus"
 
 ################
