@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: GenAIMed
 
 # Your name to show in the footer
-author: Some Person
+author: Robin Luo
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Lab: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
