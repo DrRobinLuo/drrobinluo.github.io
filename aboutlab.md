@@ -10,4 +10,4 @@ Our goal is to bring together researchers to explore generative AI's potential i
 
 We welcome experts from universities and institutions to join our platform for brainstorming, resource sharing, and discussing best practices of using generative AI in medicine. By collaborating, we hope to advance this technology, create high-quality research, provide assistive tools for professionals, and drive innovation in medicine and life sciences.
 
-**Join us** as we work together to realize the potential of AI!
+[**Join us**](https://drrobinluo.github.io/joinus) as we work together to realize the potential of AI!
