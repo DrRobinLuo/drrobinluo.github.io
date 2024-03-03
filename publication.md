@@ -1,9 +1,6 @@
 ---
 layout: page
 title: Publications
-editor_options: 
-  markdown: 
-    wrap: 72
 ---
 
 **Publication No. 1**
@@ -31,7 +28,7 @@ Lu, Shuqin Gu, Haiyang Wu
 > fight shoulder to shoulder for prevention and containment of the
 > potential epidemics or pandemics in future.
 
-**Figure:** "/assets/img/publication_images/Publication No. 1.png"
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 1.png)
 
 > **Citation:** Cheng, Kunming, et al. "Talk with ChatGPT about the
 > outbreak of Mpox in 2022: reflections and suggestions from AI
@@ -58,7 +55,7 @@ Haiyang Wu Highlights
 > surgeons, but it was not possible to topple the profession of
 > surgeons.
 
-**Figure:** "/assets/img/publication_images/Publication No. 2.png"
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 2.png)
 
 > **Citation:** Cheng, Kunming, et al. "The potential impact of
 > ChatGPT/GPT-4 on surgery: will it topple the profession of surgeons?."
@@ -93,7 +90,7 @@ Guoxin Ni, Haiyang Wu
 > ChatGPT/GPT-4 can serve as a valuable lighthouse for spinal surgeons
 > if used correctly and responsibly.
 
-**Figure:** "/assets/img/publication_images/Publication No. 3.png"
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 3.png)
 
 > **Citation:** He, Yongbin, et al. "Will ChatGPT/GPT-4 be a lighthouse
 > to guide spinal surgeons?." Annals of Biomedical Engineering (2023):
@@ -123,7 +120,7 @@ with prostate cancer and help democratize medical knowledge?
 > highlighting that while LLMs have potential in patient education and
 > support, they cannot yet replace professional medical advice.
 
-**Figure:** "/assets/img/publication_images/Publication No. 4.png"
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 4.png)
 
 > **Citation:** Zhu, Lingxuan, Weiming Mou, and Rui Chen. "Can the
 > ChatGPT and other large language models with internet-connected
@@ -158,7 +155,7 @@ Yanqiu Lu, Shuqin Gu, Haiyang Wu
 > publicly available ChatGPT webpage. Also, the present study also talks
 > about the relevant social and ethical issues related to this program.
 
-**Figure:** "/assets/img/publication_images/Publication No. 5.png"
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 5.png)
 
 > **Citation:** Cheng, Kunming, et al. "Potential use of artificial
 > intelligence in infectious disease: take ChatGPT as an example."
@@ -191,7 +188,7 @@ Gu, Haiyang Wu.
 > application of GPT-4 will bring new opportunities for the development
 > of this field.
 
-**Figure:** "/assets/img/publication_images/Publication No. 6.png"
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 6.png)
 
 > **Citation:** Cheng, Kunming, et al. "Exploring the potential of GPT-4
 > in biomedical engineering: the dawn of a new era." Annals of
@@ -219,7 +216,7 @@ Tang, M. Anthony Moody, Guoxin Ni, Shuqin Gu
 > surgeons can more confidently and effectively manage Mpox cases and be
 > better prepared for future health crises.
 
-**Figure:** "/assets/img/publication_images/Publication No. 7.png"
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 7.png)
 
 > **Citation:** He, Yongbin, et al. "Can ChatGPT/GPT-4 assist surgeons
 > in confronting patients with Mpox and handling future epidemics?."
@@ -247,7 +244,7 @@ Haiyang Wu, Cheng Li
 > surgery, and underscores the importance of leveraging lessons learned
 > for future preparedness.
 
-**Figure:** "/assets/img/publication_images/Publication No. 8.png"
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 8.png)
 
 > **Citation:** Cheng, Kunming, et al. "WHO declares end of COVID-19
 > global health emergency: lessons and recommendations from the
@@ -275,7 +272,7 @@ outperform multiple-choice format
 > 92.1% for the BLS and ACLS exams, respectively, allowing ChatGPT to
 > pass both exams with outstanding results.
 
-**Figure:** "/assets/img/publication_images/Publication No. 9.png"
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 9.png)
 
 > **Citation:** Zhu, Lingxuan, et al. "ChatGPT can pass the AHA exams:
 > Open-ended questions outperform multiple-choice format." Resuscitation
@@ -310,7 +307,7 @@ Luo
 > realistic 12-lead ECGs and teaching schematics, but expert validation
 > is still needed.
 
-**Figure:** "/assets/img/publication_images/Publication No. 10.png"
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 10.png)
 
 > **Citation:** Zhu, Lingxuan, et al. "Can DALL-E 3 Reliably Generate
 > 12-Lead ECGs and Teaching Illustrations?." *Cureus* 16.1 (2024).
@@ -339,7 +336,7 @@ Disinformation
 > disinformation, suggesting the importance of harnessing these
 > technologies responsibly.
 
-**Figure:** "/assets/img/publication_images/Publication No. 11.png"
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 11.png)
 
 > **Citation:** Zhu, Lingxuan, et al. "Potential of Large Language
 > Models as Tools Against Medical Disinformation" *JAMA Internal
@@ -391,7 +388,7 @@ Quan Cheng, Kai Miao, Shuofeng Yuan, Peng Luo
 > quality of research reporting and aids in the evolution of generative
 > AI in medicine and life sciences.
 
-**Figure:** "/assets/img/publication_images/Publication No. 12.png"
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 12.png)
 
 > **Citation:** Chen, Jinghong, et al. "STAGER checklist: Standardized
 > testing and assessment guidelines for evaluating generative artificial
