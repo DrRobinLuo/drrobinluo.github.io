@@ -1,7 +1,6 @@
 ---
-editor_options: 
-  markdown: 
-    wrap: 72
+layout: page
+title: Team Member
 ---
 
 ## Team Member
@@ -18,10 +17,6 @@ Zhujiang Hospital, Southern Medical University, Guangzhou, China
 **Bufu Tang, MD**
 
 Zhongshan Hospital, Fudan University, Shanghai, China
-
-**Chang Qi, MEng**
-
-Institute of Logic and Computation, TU Wien, Austria
 
 **Haiyang Wu, PhD**
 
