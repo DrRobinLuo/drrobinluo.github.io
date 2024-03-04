@@ -18,6 +18,10 @@ Zhujiang Hospital, Southern Medical University, Guangzhou, China
 
 Zhongshan Hospital, Fudan University, Shanghai, China
 
+**Chang Qi, MEng**
+
+The University of Hong Kong, Hong Kong, China
+
 **Haiyang Wu, PhD**
 
 Tianjin Medical University, Tianjin, China
