@@ -4,7 +4,7 @@ Peng Luo - MD, Email: luopeng@smu.edu.cn
 
 Lingxuan Zhu - MD, Email: zhu_lingxuan@i.smu.edu.cn
 
-Chang Qi, MEng, teddyramsey97@gmail.com
+Chang Qi - MEng, teddyramsey97@gmail.com
 
 Jinghong Chen - MD, Email: chen_jinghong@i.smu.edu.cn
 
