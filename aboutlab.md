@@ -1,7 +1,6 @@
 ---
 layout: page
 title: GenAIMed Group
-subtitle: Add A Slogan
 ---
 
 **GenAIMed Group** is a collaborative group focused on applying generative AI models like ChatGPT, Claude, and Gemini to medicine and life sciences.
