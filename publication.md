@@ -344,12 +344,12 @@ Disinformation
 
 **Publication No. 12**
 
-**Publication Data: 2024/3/**
+**Publication Data: 2024/2/1**
 
 **Title:** STAGER checklist: Standardized testing and assessment
 guidelines for evaluating generative artificial intelligence reliability
 
-**Link:**
+**Link:** <https://doi.org/10.1002/imo2.1>
 
 **Full Author:** Jinghong Chen, Lingxuan Zhu, Weiming Mou, Anqi Lin,
 Dongqiang Zeng, Chang Qi, Zaoqu Liu, Aimin Jiang, Bufu Tang, Wenjie Shi,
@@ -392,4 +392,259 @@ Quan Cheng, Kai Miao, Shuofeng Yuan, Peng Luo
 
 > **Citation:** Chen, Jinghong, et al. "STAGER checklist: Standardized
 > testing and assessment guidelines for evaluating generative artificial
-> intelligence reliability" *iMetaOmics* (2024).
+> intelligence reliability" *iMetaomics* (2024).
+
+**Publication No. 13**
+
+**Publication Data: 2024/3/4**
+
+**Title:** What is the best approach to assessing generative AI in
+medicine?
+
+**Link:** <https://doi.org/10.1016/j.resuscitation.2024.110164>
+
+**Full Author:** Lingxuan Zhu, Weiming Mou, Jiarui Xie, Peng Luo, Rui
+Chen
+
+> **Summary:** The article discusses the assessment of generative AI
+> technologies like ChatGPT in the field of clinical medicine.
+> Specifically, it addresses their capabilities in passing the American
+> Heart Association's Basic Life Support (BLS) and Advanced
+> Cardiovascular Life Support (ACLS) exams. Initial studies showed that
+> ChatGPT-3.5 could not pass these exams; however, modifications in test
+> formats, such as converting multiple-choice questions to open-ended
+> questions, enabled the AI to succeed in later assessments. The launch
+> of ChatGPT-4V, which includes image recognition capabilities, further
+> enhanced its performance by allowing it to handle image-based
+> questions, simulating a real exam environment.
+
+The article highlights the importance of including methodological
+details like version numbers and test dates in research to enhance the
+validity and reproducibility of studies. It suggests that evaluating AI
+should extend beyond structured exams to more dynamic, simulated
+clinical scenarios to better gauge its potential in real-world medical
+settings. The authors advocate for a comprehensive evaluation process
+that mirrors the progression of medical education from simple tests to
+complex clinical practice, thereby assessing the practical impact of AI
+technologies in healthcare.
+
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 13.png)
+
+> **Citation:** Zhu, Lingxuan, et al. "What is the Best Approach to
+> Assessing Generative AI in Medicine?." Resuscitation (2024).
+
+**Publication No. 14**
+
+**Publication Data: 2024/3/18**
+
+**Title:** Step into the era of large multimodal models: A pilot study
+on ChatGPT-4V(ision)'s ability to interpret radiological images
+
+**Link:** <https://doi.org/10.1097/JS9.0000000000001359>
+
+**Full Author:** Lingxuan Zhu, Weiming Mou, Yancheng Lai, Jinghong Chen,
+Shujia Lin, Liling Xu, Junda Lin, Zeji Guo, Tao Yang, Anqi Lin, Chang
+Qi, Ling Gan, Jian Zhang, Peng Luo
+
+> **Summary:** This study explores ChatGPT-4V's ability to interpret
+> radiological images, assessing its diagnostic accuracy and capacity to
+> formulate treatment plans. The model displayed a 77.01% diagnostic
+> accuracy on USMLE-style questions, demonstrating enhanced performance
+> when provided with comprehensive patient histories. Although effective
+> in identifying abnormalities in chest X-rays, it struggled with
+> precise diagnoses due to limited patient data. The findings suggest
+> that while ChatGPT-4V can integrate imaging with patient histories
+> effectively, further enhancements and extensive patient data are
+> necessary for accurate medical diagnostics.
+
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 14.png)
+
+> **Citation:** Zhu, Lingxuan, et al. "Step into the era of large
+> multimodal models: A pilot study on ChatGPT-4V (ision)'s ability to
+> interpret radiological images." International Journal of Surgery
+> (2024): 10-1097.
+
+**Publication No. 15**
+
+**Publication Data: 2024/3/29**
+
+**Title:** Language and cultural bias in AI: comparing the performance
+of large language models developed in different countries on Traditional
+Chinese Medicine highlights the need for localized models
+
+**Link:** <https://doi.org/10.1186/s12967-024-05128-4>
+
+**Full Author:** Lingxuan Zhu, Weiming Mou, Yancheng Lai, Junda Lin,
+Peng Luo
+
+> **Summary:** The study presented in the article evaluates the
+> performance of large language models (LLMs) developed in China and the
+> West when answering questions related to Traditional Chinese Medicine
+> (TCM). The investigation reveals a significant disparity in
+> performance, attributed to the linguistic and cultural nuances
+> inherent in TCM, which are better captured by models trained on
+> Chinese-language data. Chinese LLMs like Baidu's Ernie Bot series and
+> Alibaba's Qwen-max, which are specifically tailored with extensive
+> local data, demonstrate superior accuracy compared to Western models
+> such as OpenAI's ChatGPT and Google's Gemini-pro. The research used a
+> sample of 140 questions from the National Medical Licensing
+> Examination for TCM in China, showing that Chinese LLMs had an average
+> accuracy of 78.4%, significantly higher than their Western
+> counterparts at 35.9%. This study underscores the critical role of
+> localized training in enhancing LLM performance, suggesting a need for
+> developing models that can understand and interact within specific
+> linguistic and cultural contexts, thus providing more reliable and
+> culturally coherent AI applications in fields like medicine.
+
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 15.png)
+
+> **Citation:** Zhu, Lingxuan, et al. "Language and cultural bias in AI:
+> comparing the performance of large language models developed in
+> different countries on Traditional Chinese Medicine highlights the
+> need for localized models." Journal of Translational Medicine 22.1
+> (2024): 319.
+
+**Publication No. 16**
+
+**Publication Data: 2024/4/9**
+
+**Title:** Multimodal Approach in the Diagnosis of Urologic
+Malignancies: Critical Assessment of ChatGPT-4V's Image-Reading
+Capabilities
+
+**Link:** <https://doi.org/10.1200/CCI.23.00275>
+
+**Full Author:** Lingxuan Zhu, Weiming Mou, Yancheng Lai, Junda Lin,
+Peng Luo
+
+> **Summary:** The study evaluates the potential application of the
+> ChatGPT-4V model, a large multimodal language model, in the
+> pathological diagnosis of urologic malignancies. It specifically
+> assesses the model's performance in distinguishing between malignant
+> and benign tissues in prostate cancer (PCa) and renal cell carcinoma
+> (RCC). The model showed promising results in differentiating RCC from
+> normal kidney tissues, achieving an AUC of 0.871. However, it
+> struggled to effectively differentiate between benign and malignant
+> prostate tissues, achieving an AUC of only 0.51. The study highlights
+> the potential of next-generation multimodal AI models in enhancing
+> clinical diagnosis and improving doctor-patient communication by
+> providing explanations in plain language and introducing treatment
+> principles based on image analysis.
+
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 16.png)
+
+> **Citation:** Zhu, Lingxuan, et al. "Multimodal Approach in the
+> Diagnosis of Urologic Malignancies: Critical Assessment of
+> ChatGPT-4V's Image-Reading Capabilities." JCO Clinical Cancer
+> Informatics 8 (2024): e2300275.
+
+**Publication No. 17**
+
+**Publication Data: ACCEPTED**
+
+**Title:** International Journal of Surgery：Advancing Generative AI in
+Medicine: Recommendations for Standardized Evaluation
+
+**Link:**
+
+**Full Author:** Anqi Lin, Lingxuan Zhu, Weiming Mou, Zizhi Yuan, Quan
+Cheng, Aimin Jiang, Peng Luo
+
+> **Summary:** In this paper, we examine current challenges in
+> evaluating generative AI systems for medical applications. We find
+> generative AI shows promise but instability issues make manual
+> evaluation critical yet lacking in standardization, risking biased
+> assessments. To enable more objective evaluations of generative AI
+> performance in medicine, we first recommend establishing standardized
+> multi-criteria scoring systems to reduce subjectivity. Second,
+> implementing training, multi-reviewer scoring, and audits can minimize
+> individual biases. Finally, statistical analysis of scoring
+> differences and iterative refinement of protocols can continually
+> improve consistency. Overall, our proposed recommendations for
+> rigorous generative AI evaluation aim to advance safe, effective
+> integration of this powerful technology in clinical medicine.
+> Standardized frameworks will let us empirically validate capabilities
+> as generative AI matures. We look forward to leveraging more objective
+> assessments to unlock the vast potential of generative AI in
+> transforming healthcare.
+
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 17.png)
+
+> **Citation:** Anqi Lin, et al. "International Journal of
+> Surgery：Advancing Generative AI in Medicine: Recommendations for
+> Standardized Evaluation." International Journal of Surgery (2024).
+
+**Publication No. 18**
+
+**Publication Data: ACCEPTED**
+
+**Title:** ChatGPT's Ability to Generate Realistic Experimental Images
+Poses a New Challenge to Academic Integrity
+
+**Link:**
+
+**Full Author:** Lingxuan Zhu, Yancheng Lai, Weiming Mou, Haoran Zhang,
+Anqi Lin, Chang Qi, Tao Yang, Liling Xu, Jian Zhang, Peng Luo
+
+> **Summary:** The rapid advancements in large language models (LLMs)
+> such as ChatGPT have raised concerns about their potential impact on
+> academic integrity. While initial concerns focused on ChatGPT's
+> writing capabilities, recent updates have integrated DALL-E 3's image
+> generation features, extending the risks to visual evidence in
+> biomedical research. Our tests revealed ChatGPT's nearly barrier-free
+> image generation feature can be used to generate experimental result
+> images, such as blood smears, Western Blot, immunofluorescence and so
+> on. Although the current ability of ChatGPT to generate experimental
+> images is limited, the risk of misuse is evident. This development
+> underscores the need for immediate action, suggesting AI providers
+> restrict the generation of experimental image generation, develop
+> tools to detect AI-generated images, and consider adding "invisible
+> watermarks" to the generated images. By implementing these measures,
+> we can better ensure the responsible use of AI technology in academic
+> research.
+
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 18.png)
+
+> **Citation:** Lingxuan Zhu, et al. "ChatGPT's Ability to Generate
+> Realistic Experimental Images Poses a New Challenge to Academic
+> Integrity." Journal of Hematology & Oncology (2024).
+
+**Publication No. 19**
+
+**Publication Data: ACCEPTED**
+
+**Title:** Multimodal ChatGPT-4V for ECG Interpretation: Promise and
+Limitations
+
+**Link:**
+
+**Full Author:** Lingxuan Zhu, Weiming Mou, Keren Wu, Yancheng Lai, Anqi
+Lin, Tao Yang, Jian Zhang, Peng Luo
+
+> **Summary:** Electrocardiogram (ECG) interpretation is an essential
+> skill in cardiovascular medicine. This study evaluated the
+> capabilities of newly released ChatGPT-4V, a large language model with
+> visual recognition abilities, in interpreting ECG waveforms and
+> answering related multiple-choice questions. A total of 62 ECG-related
+> multiple-choice questions were collected from reputable medical exams.
+> ChatGPT was prompted to answer the questions by analyzing the
+> accompanying ECG images. Requiring at least 1 of 3 responses to be
+> correct, ChatGPT achieved an overall accuracy of 83.87% across all
+> question types. ChatGPT demonstrated significantly lower performance
+> on counting-based questions like calculating QT intervals compared to
+> diagnostic and treatment recommendation questions. The findings
+> indicate that while ChatGPT shows promising potential in ECG
+> interpretation and decision-making, its diagnostic reliability and
+> quantitative analysis abilities need improvement before real clinical
+> use. Further large-scale studies are warranted to fully evaluate
+> ChatGPT's capabilities and track its progress as the model accumulates
+> more medical knowledge through ongoing training. With technological
+> advancements, multimodal AI like ChatGPT may one day play an important
+> role in assisting clinicians with ECG interpretation and
+> cardiovascular care.
+
+![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 19.png)
+
+> **Citation:** Lingxuan Zhu, et al. "Multimodal ChatGPT-4V for ECG
+> Interpretation: Promise and Limitations." Multimodal ChatGPT-4V for
+> ECG Interpretation: Promise and Limitations (2024).
