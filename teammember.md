@@ -37,9 +37,6 @@ University of Macau, Macau SAR, China
 **Lingxuan Zhu, MD**
 
 Zhujiang Hospital, Southern Medical University, Guangzhou, China
-National Cancer Center/ National Clinical Research Center for
-Cancer/Cancer Hospital, Changping laboratory, Chinese Academy of Medical
-Sciences and Peking Union Medical College, Beijing, China
 
 **Peng Luo, MD**
 
