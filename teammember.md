@@ -21,6 +21,18 @@ Department of Radiation Oncology, Zhongshan Hospital, Fudan University, Shanghai
 
 The University of Hong Kong, Hong Kong, China
 
+**Dongqiang Zeng, MD**
+
+Department of Oncology, Nanfang Hospital, Southern Medical University; 
+
+Cancer Center, the Sixth Affiliated Hospital, School of Medicine, South China University of Technology
+
+**Guangdi Chu, MD**
+
+Department of Urology, The Affiliated Hospital of Qingdao University; 
+
+Qingdao Medical College, Qingdao University, Qingdao, China
+
 **Haiyang Wu, PhD**
 
 Tianjin Medical University, Tianjin, China
@@ -36,6 +48,10 @@ University of Macau, Macau SAR, China
 **Lingxuan Zhu, MD**
 
 Zhujiang Hospital, Southern Medical University, Guangzhou, China
+
+**Mingjia Xiao, MD**
+
+Hepatobiliary Surgery Department, Quzhou Affiliated Hospital of Wenzhou Medical University, Quzhou People's Hospital, China
 
 **Peng Luo, MD**
 
@@ -72,6 +88,10 @@ Medicine, Shanghai, China
 University Clinic for General-, Visceral-, Vascular- and
 Trans-Plantation Surgery, Medical Faculty University Hospital Magdeburg,
 Otto-von Guericke University, Magdeburg, Germany
+
+**Wenyi Gan, MD**
+
+Department of Joint Surgery and Sports Medicine, Zhuhai People's Hospital (Zhuhai hospital affiliated with Jinan University, Guangdong, China
 
 **Xin Chen, MD**
 
