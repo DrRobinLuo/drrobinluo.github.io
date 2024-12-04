@@ -17,20 +17,7 @@
       {% endif %}
       {{ site.time | date: '%Y' }}
 
-      <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-        <div id="globe-container" style="width:150px; height:150px; overflow:hidden;">
-          <script type="text/javascript" id="clstr_globe" 
-            src="//clustrmaps.com/globe.js?d=vsmwlh_uKwRelhFW7u7vJWK7KsqqNtsekXxwfkCchv8">
-          </script>
-        </div>
-      </div>
-      
-      <style>
-        #globe-container canvas {
-          width: 100% !important; 
-          height: 100% !important;
-        }
-      </style>
+      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=vsmwlh_uKwRelhFW7u7vJWK7KsqqNtsekXxwfkCchv8'></script>
 
       {% if site.url-pretty %}
         &nbsp;&bull;&nbsp;
