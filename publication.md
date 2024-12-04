@@ -5,99 +5,6 @@ title: Publications
 
 **Publication No. 1**
 
-**Publication Data: 2023/4/8**
-
-**Title:** Talk with ChatGPT About the Outbreak of Mpox in 2022:
-Reflections and Suggestions from AI Dimensions
-
-**Link:** <https://doi.org/10.1007/s10439-023-03196-z>
-
-**Full Author:** Kunming Cheng, Yongbin He, Cheng Li, Ruijie Xie, Yanqiu
-Lu, Shuqin Gu, Haiyang Wu
-
-> **Summary:** In the era of big data, generative artificial
-> intelligence (AI) models are currently in a boom. The Chatbot
-> Generative Pre-trained Transformer (ChatGPT), a large language model
-> (LLM) developed by OpenAI (San Francisco, CA), is a type of AI
-> software that could generate text based on the input it receives. In
-> this study, in order to explore how ChatGPT could give reflections and
-> suggestions about the sudden outbreak of Mpox in 2022 from the AI
-> dimensions, our group talked with ChatGPT with several questions about
-> Mpox. We hope this talk could enrich our knowledge on Mpox from the
-> new AI dimensions and also explore the possibility of human and AI
-> fight shoulder to shoulder for prevention and containment of the
-> potential epidemics or pandemics in future.
-
-![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 1.png)
-
-> **Citation:** Cheng, Kunming, et al. "Talk with ChatGPT about the
-> outbreak of Mpox in 2022: reflections and suggestions from AI
-> dimensions." Annals of Biomedical Engineering (2023): 1-5.
-
-**Publication No. 2**
-
-**Publication Data: 2023/4/10**
-
-**Title:** The potential impact of ChatGPT/GPT-4 on surgery: will it
-topple the profession of surgeons?
-
-**Full Author:** Kunming Cheng, Zaijie Sun, Yongbin He, Shuqin Gu,
-Haiyang Wu Highlights
-
-**Link:** <https://doi.org/10.1097/JS9.0000000000000388>
-
-> **Summary:** This is the first study to summarize the potential
-> applications of ChatGPT (Generative Pre-trained Transformer)/GPT-4 in
-> the surgical field. ChatGPT/GPT-4 is capable of participating in
-> multiple aspects of surgical work, including scientific writing,
-> doctor--patient communication, diagnostic imaging, and patients'
-> perioperative management. ChatGPT/GPT-4 could be a good assistant for
-> surgeons, but it was not possible to topple the profession of
-> surgeons.
-
-![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 2.png)
-
-> **Citation:** Cheng, Kunming, et al. "The potential impact of
-> ChatGPT/GPT-4 on surgery: will it topple the profession of surgeons?."
-> International Journal of Surgery (2023): 10-1097.
-
-**Publication No. 3**
-
-**Publication Data: 2023/4/18**
-
-**Title:** Will ChatGPT/GPT-4 be a Lighthouse to Guide Spinal Surgeons?
-
-**Link:** <https://doi.org/10.1007/s10439-023-03206-0>
-
-**Full Author:** Yongbin He, Haifeng Tang, Dongxue Wang, Shuqin Gu,
-Guoxin Ni, Haiyang Wu
-
-> **Summary:** The advent of artificial intelligence (AI), particularly
-> ChatGPT/GPT-4, has led to advancements in various fields, including
-> healthcare. This study explores the prospective role of ChatGPT/GPT-4
-> in various facets of spinal surgical practice, especially in
-> supporting spinal surgeons during the perioperative management of
-> endoscopic spinal surgery for patients with lumbar disc herniation.
-> The AI-driven chatbot can facilitate communication between spinal
-> surgeons, patients, and their relatives, streamline the collection and
-> analysis of patient data, and contribute to the surgical planning
-> process. Furthermore, ChatGPT/GPT-4 may enhance intraoperative support
-> by providing real-time surgical navigation information and
-> physiological parameter monitoring, as well as aiding in postoperative
-> rehabilitation guidance. However, the appropriate and supervised use
-> of ChatGPT/GPT-4 is essential, considering the potential risks
-> associated with data security and privacy. The study concludes that
-> ChatGPT/GPT-4 can serve as a valuable lighthouse for spinal surgeons
-> if used correctly and responsibly.
-
-![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 3.png)
-
-> **Citation:** He, Yongbin, et al. "Will ChatGPT/GPT-4 be a lighthouse
-> to guide spinal surgeons?." Annals of Biomedical Engineering (2023):
-> 1-4.
-
-**Publication No. 4**
-
 **Publication Data: 2023/4/19**
 
 **Title:** Can the ChatGPT and other large language models with
@@ -128,130 +35,7 @@ with prostate cancer and help democratize medical knowledge?
 > cancer and help democratize medical knowledge?." Journal of
 > Translational Medicine 21.1 (2023): 1-4.
 
-**Publication No. 5**
-
-**Publication Data: 2023/4/19**
-
-**Title:** Potential Use of Artificial Intelligence in Infectious
-Disease: Take ChatGPT as an Example
-
-**Link:** <https://doi.org/10.1007/s10439-023-03203-3>
-
-**Full Author:** Kunming Cheng, Zhiyong Li, Yongbin He, Qiang Guo,
-Yanqiu Lu, Shuqin Gu, Haiyang Wu
-
-> **Summary:** Over the past month, a new AI model called Chatbot
-> Generative Pre-trained Transformer (ChatGPT), has received enormous
-> attention in the media and scientific communities due to its ability
-> to process and respond to commands in a humanistic fashion. As
-> reported, five days after its launch, the number of registered users
-> of ChatGPT exceeded one million, and its monthly active users had
-> exceeded 100 million two months later, making it the most rapidly
-> growing consumer application in history. The advent of ChatGPT has
-> further brought about new ideas and challenges in the realm of
-> infectious disease. In view of this, in order to evaluate the
-> potential use of ChatGPT in clinical practice and scientific research
-> of infectious disease, we conducted a brief online survey by using the
-> publicly available ChatGPT webpage. Also, the present study also talks
-> about the relevant social and ethical issues related to this program.
-
-![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 5.png)
-
-> **Citation:** Cheng, Kunming, et al. "Potential use of artificial
-> intelligence in infectious disease: take ChatGPT as an example."
-> Annals of Biomedical Engineering (2023): 1-6.
-
-**Publication No. 6**
-
-**Publication Data: 2023/4/28**
-
-**Title:** Exploring the Potential of GPT-4 in Biomedical Engineering:
-The Dawn of a New Era
-
-**Link:** <https://doi.org/10.1007/s10439-023-03221-1>
-
-**Full Author:** Kunming Cheng, Qiang Guo, Yongbin He, Yanqiu Lu, Shuqin
-Gu, Haiyang Wu.
-
-> **Summary:** Biomedical engineering is a relatively young
-> interdisciplinary field based on engineering, biology, and medicine.
-> Of note, the rapid progress of artificial intelligence (AI)-based
-> technologies has made a significant impact on the biomedical
-> engineering field, and continuously bring innovations and
-> breakthroughs. Recently, ChatGPT, an AI chatbot developed by OpenAI
-> company, has gained tremendous attention due to its powerful natural
-> language generation and understanding ability. In this study, we
-> explored potential of GPT-4 in the eight branches of biomedical
-> engineering including medical imaging, medical devices,
-> bioinformatics, biomaterials, biomechanics, gene and cell engineering,
-> tissue engineering, and neural engineering. Our results show that the
-> application of GPT-4 will bring new opportunities for the development
-> of this field.
-
-![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 6.png)
-
-> **Citation:** Cheng, Kunming, et al. "Exploring the potential of GPT-4
-> in biomedical engineering: the dawn of a new era." Annals of
-> Biomedical Engineering (2023): 1-9.
-
-**Publication No. 7**
-
-**Publication Data: 2023/5/10**
-
-**Title:** Can ChatGPT/GPT-4 assist surgeons in confronting patients
-with Mpox and handling future epidemics?
-
-**Link:** <https://doi.org/10.1097/JS9.0000000000000453>
-
-**Full Author:** Yongbin He, Haiyang Wu, Yan Chen, Dewei Wang, Weiming
-Tang, M. Anthony Moody, Guoxin Ni, Shuqin Gu
-
-> **Summary:** The article discusses the potential of ChatGPT/GPT-4 in
-> assisting surgeons with managing patients with Mpox during the
-> outbreak and in future epidemics. It highlights the importance of
-> differentiating Mpox from common diseases, outlines the necessary
-> precautions and guidelines for surgeons, and evaluates ChatGPT/GPT-4's
-> capability to provide comprehensive and organized information relevant
-> to surgical care. The study suggests that with ChatGPT's assistance,
-> surgeons can more confidently and effectively manage Mpox cases and be
-> better prepared for future health crises.
-
-![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 7.png)
-
-> **Citation:** He, Yongbin, et al. "Can ChatGPT/GPT-4 assist surgeons
-> in confronting patients with Mpox and handling future epidemics?."
-> International Journal of Surgery 109.8 (2023): 2544-2548.
-
-**Publication No. 8**
-
-**Publication Data: 2023/5/29**
-
-**Title:** WHO declares the end of the COVID-19 global health emergency:
-lessons and recommendations from the perspective of ChatGPT/GPT-4
-
-**Link:** <https://doi.org/10.1097/JS9.0000000000000521>
-
-**Full Author:** Kunming Cheng, Chunchun Wu, Shuqin Gu, Yanqiu Lu,
-Haiyang Wu, Cheng Li
-
-> **Summary:** The article discusses the WHO's declaration ending the
-> COVID-19 global health emergency, emphasizing the shift towards
-> long-term management of the virus. It highlights the role of AI and
-> ChatGPT/GPT-4 in pandemic response and future vigilance, suggesting
-> that despite the downgrade, COVID-19 remains a health threat requiring
-> ongoing surveillance and vaccine development. The piece also addresses
-> the pandemic's impact on healthcare practices, particularly in
-> surgery, and underscores the importance of leveraging lessons learned
-> for future preparedness.
-
-![Figure](https://drrobinluo.github.io/assets/img/publication_images/Publication No. 8.png)
-
-> **Citation:** Cheng, Kunming, et al. "WHO declares end of COVID-19
-> global health emergency: lessons and recommendations from the
-> perspective of ChatGPT/GPT-4." International Journal of Surgery
-> (2023): 10-1097.
-
-**Publication No. 9**
+**Publication No. 2**
 
 **Publication Data: 2023/6/22**
 
@@ -278,7 +62,7 @@ outperform multiple-choice format
 > Open-ended questions outperform multiple-choice format." Resuscitation
 > 188 (2023): 109783.
 
-**Publication No. 10**
+**Publication No. 3**
 
 **Publication Data: 2024/1/22**
 
@@ -312,7 +96,7 @@ Luo
 > **Citation:** Zhu, Lingxuan, et al. "Can DALL-E 3 Reliably Generate
 > 12-Lead ECGs and Teaching Illustrations?." *Cureus* 16.1 (2024).
 
-**Publication No. 11**
+**Publication No. 4**
 
 **Publication Data: 2024/2/26**
 
@@ -342,7 +126,7 @@ Disinformation
 > Models as Tools Against Medical Disinformation" *JAMA Internal
 > Medicine* (2024).
 
-**Publication No. 12**
+**Publication No. 5**
 
 **Publication Data: 2024/2/1**
 
@@ -394,7 +178,7 @@ Quan Cheng, Kai Miao, Shuofeng Yuan, Peng Luo
 > testing and assessment guidelines for evaluating generative artificial
 > intelligence reliability" *iMetaomics* (2024).
 
-**Publication No. 13**
+**Publication No. 6**
 
 **Publication Data: 2024/3/4**
 
@@ -433,7 +217,7 @@ technologies in healthcare.
 > **Citation:** Zhu, Lingxuan, et al. "What is the Best Approach to
 > Assessing Generative AI in Medicine?." Resuscitation (2024).
 
-**Publication No. 14**
+**Publication No. 7**
 
 **Publication Data: 2024/3/18**
 
@@ -464,7 +248,7 @@ Qi, Ling Gan, Jian Zhang, Peng Luo
 > interpret radiological images." International Journal of Surgery
 > (2024): 10-1097.
 
-**Publication No. 15**
+**Publication No. 8**
 
 **Publication Data: 2024/3/29**
 
@@ -504,7 +288,7 @@ Peng Luo
 > need for localized models." Journal of Translational Medicine 22.1
 > (2024): 319.
 
-**Publication No. 16**
+**Publication No. 9**
 
 **Publication Data: 2024/4/9**
 
@@ -538,7 +322,7 @@ Peng Luo
 > ChatGPT-4V's Image-Reading Capabilities." JCO Clinical Cancer
 > Informatics 8 (2024): e2300275.
 
-**Publication No. 17**
+**Publication No. 10**
 
 **Publication Data: ACCEPTED**
 
@@ -574,7 +358,7 @@ Cheng, Aimin Jiang, Peng Luo
 > Surgery：Advancing Generative AI in Medicine: Recommendations for
 > Standardized Evaluation." International Journal of Surgery (2024).
 
-**Publication No. 18**
+**Publication No. 11**
 
 **Publication Data: ACCEPTED**
 
@@ -609,7 +393,7 @@ Anqi Lin, Chang Qi, Tao Yang, Liling Xu, Jian Zhang, Peng Luo
 > Realistic Experimental Images Poses a New Challenge to Academic
 > Integrity." Journal of Hematology & Oncology (2024).
 
-**Publication No. 19**
+**Publication No. 12**
 
 **Publication Data: ACCEPTED**
 
