@@ -5,57 +5,9 @@ title: Publications
 
 **Publication No. 1**
 
-**Publication Year:** 2024
-
-**Journal:** Journal of hematology & oncology|IF:29.5
-
-**Title:** ChatGPT's ability to generate realistic experimental images poses a new challenge to academic integrity
-
-**Full Author:** Lingxuan Zhu, Yancheng Lai, Weiming Mou, Haoran Zhang, Anqi Lin, Chang Qi, Tao Yang, Liling Xu, Jian Zhang, Peng Luo
-
-**Link:** <https://doi.org/10.1186/s13045-024-01543-8>
-
-> **Summary:** The rapid advancements in large language models (LLMs) such as ChatGPT have raised concerns about their potential impact on academic integrity. While initial concerns focused on ChatGPT's writing capabilities, recent updates have integrated DALL-E 3's image generation features, extending the risks to visual evidence in biomedical research. Our tests revealed ChatGPT's nearly barrier-free image generation feature can be used to generate experimental result images, such as blood smears, Western Blot, immunofluorescence and so on. Although the current ability of ChatGPT to generate experimental images is limited, the risk of misuse is evident. This development underscores the need for immediate action. We suggest that AI providers restrict the generation of experimental image, develop tools to detect AI-generated images, and consider adding "invisible watermarks" to the generated images. By implementing these measures, we can better ensure the responsible use of AI technology in academic research and maintain the integrity of scientific evidence.
-
-> **Citation:** Zhu L, Lai Y, Mou W, Zhang H, Lin A, Qi C, Yang T, Xu L, Zhang J, Luo P. ChatGPT's ability to generate realistic experimental images poses a new challenge to academic integrity. J Hematol Oncol. 2024;17(1):27. doi:10.1186/s13045-024-01543-8
-
-**Publication No. 2**
-
-**Publication Year:** 2024
-
-**Journal:** JAMA oncology|IF:22.5
-
-**Title:** Ensuring Safety and Consistency in Artificial Intelligence Chatbot Responses
-
-**Full Author:** Lingxuan Zhu, Weiming Mou, Peng Luo
-
-**Link:** <https://doi.org/10.1001/jamaoncol.2024.4324>
-
-> **Summary:** The commentary emphasizes the potential of artificial intelligence (AI) chatbots in providing empathetic and readable responses to cancer-related questions but raises significant concerns regarding their accuracy and consistency. While AI models are effective in certain aspects like engagement and communication, the authors stress that inaccuracies in the information provided could pose serious risks to patient safety. The inherent randomness of large language models (LLMs) can lead to inconsistent responses, further complicating their reliability. The authors argue that for AI to be safely integrated into clinical settings, models must prioritize accuracy, consistency, and safety, ensuring that they consistently deliver reliable information to patients.
-
-> **Citation:** Zhu L, Mou W, Luo P. Ensuring Safety and Consistency in Artificial Intelligence Chatbot Responses. JAMA Oncol. 2024;10(11):1597. doi:10.1001/jamaoncol.2024.4324
-
-**Publication No. 3**
-
-**Publication Year:** 2024
-
-**Journal:** JAMA internal medicine|IF:22.5
-
-**Title:** Potential of Large Language Models as Tools Against Medical Disinformation
-
-**Full Author:** Lingxuan Zhu, Weiming Mou, Peng Luo
-
-**Link:** <https://doi.org/10.1001/jamainternmed.2024.0020>
-
-> **Summary:** The commentary explores the potential of large language models (LLMs) in combating medical disinformation, acknowledging both the risks and opportunities they present. While agreeing with concerns about LLMs enabling the spread of false medical information, the authors highlight that the problem predates AI technology. They argue that rather than focusing solely on restricting LLMs, efforts should be made to empower users to assess the reliability of online health information. The commentary demonstrates how well-trained LLMs can be powerful tools in identifying and correcting inaccurate medical claims. The authors’ experiment with multiple popular LLMs showed that most responses flagged misinformation, particularly in areas like vaccine safety, by providing evidence-based explanations. These models' ability to reference the latest authoritative information, such as CDC data, reinforces their potential to challenge health misinformation, including emerging threats like novel infectious diseases. The commentary stresses that the positive potential of LLMs in addressing medical disinformation should not be overlooked.
-
-> **Citation:** Zhu L, Mou W, Luo P. Potential of Large Language Models as Tools Against Medical Disinformation. JAMA Intern Med. 2024;184(4):450. doi:10.1001/jamainternmed.2024.0020
-
-**Publication No. 4**
-
 **Publication Year:** 2025
 
-**Journal:** International journal of surgery (London, England)|IF:12.5
+**Journal:** International journal of surgery (London, England), **IF: **12.5
 
 **Title:** ChatGPT's role in alleviating anxiety in total knee arthroplasty consent process: a randomized controlled trial pilot study
 
@@ -67,43 +19,11 @@ title: Publications
 
 > **Citation:** Gan W, Ouyang J, She G, Xue Z, Zhu L, Lin A, Mou W, Jiang A, Qi C, Cheng Q et al.. ChatGPT's role in alleviating anxiety in total knee arthroplasty consent process: a randomized controlled trial pilot study. Int J Surg. 2025;:. doi:10.1097/JS9.0000000000002223
 
-**Publication No. 5**
-
-**Publication Year:** 2024
-
-**Journal:** International journal of surgery (London, England)|IF:12.5
-
-**Title:** Advancing generative artificial intelligence in medicine: recommendations for standardized evaluation
-
-**Full Author:** Anqi Lin, Lingxuan Zhu, Weiming Mou, Zizhi Yuan, Quan Cheng, Aimin Jiang, Peng Luo
-
-**Link:** <https://doi.org/10.1097/JS9.0000000000001583>
-
-> **Summary:** This paper proposes a comprehensive framework for standardized evaluation of generative AI in medicine, addressing the current lack of standardized assessment methods. The authors recommend a three-pronged approach: establishing standardized scoring criteria with multiple complementary evaluation methods (including Reference Answer Accuracy Rate, Subjective Answer Accuracy Rate, and Strict Accuracy Rate), implementing rigorous evaluation processes (including pre-review alignment, multi-reviewer scoring, and independent audits), and utilizing statistical analysis to quantify scoring differences and refine evaluation methods. The recommendations aim to enhance reliability and consistency in assessing generative AI's capabilities in healthcare applications, acknowledging both the technology's potential and the need for careful validation before clinical implementation.
-
-> **Citation:** Lin A, Zhu L, Mou W, Yuan Z, Cheng Q, Jiang A, Luo P. Advancing generative artificial intelligence in medicine: recommendations for standardized evaluation. Int J Surg. 2024;110(8):4547-4551. doi:10.1097/JS9.0000000000001583
-
-**Publication No. 6**
-
-**Publication Year:** 2024
-
-**Journal:** International journal of surgery (London, England)|IF:12.5
-
-**Title:** Step into the era of large multimodal models: a pilot study on ChatGPT-4V(ision)'s ability to interpret radiological images
-
-**Full Author:** Lingxuan Zhu, Weiming Mou, Yancheng Lai, Jinghong Chen, Shujia Lin, Liling Xu, Junda Lin, Zeji Guo, Tao Yang, Anqi Lin, Chang Qi, Ling Gan, Jian Zhang, Peng Luo
-
-**Link:** <https://doi.org/10.1097/JS9.0000000000001359>
-
-> **Summary:** The introduction of ChatGPT-4V's 'Chat with images' feature represents the beginning of the era of large multimodal models (LMMs), which allows ChatGPT to process and answer questions based on uploaded images. This advancement has the potential to transform how surgical teams utilize radiographic data, as radiological interpretation is crucial for surgical planning and postoperative care. However, a comprehensive evaluation of ChatGPT-4V's capabilities in interpret radiological images and formulating treatment plans remains to be explored. Three types of questions were collected: (1) 87 USMLE-style questions, submitting only the question stems and images without providing options to assess ChatGPT's diagnostic capability. For questions involving treatment plan formulations, a five-point Likert scale was used to assess ChatGPT's proposed treatment plan. The 87 questions were then adapted by removing detailed patient history to assess its contribution to diagnosis. The diagnostic performance of ChatGPT-4V was also tested when only medical history was provided. (2) We randomly selected 100 chest radiography from the ChestX-ray8 database to test the ability of ChatGPT-4V to identify abnormal chest radiography. (3) Cases from the 'Diagnose Please' section in the Radiology journal were collected to evaluate the performance of ChatGPT-4V in diagnosing complex cases. Three responses were collected for each question. ChatGPT-4V achieved a diagnostic accuracy of 77.01% for USMLE-style questions. The average score of ChatGPT-4V's treatment plans was 3.97 (Interquartile Range: 3.33-4.67). Removing detailed patient history dropped the diagnostic accuracy to 19.54% (P<0.0001). ChatGPT-4V achieved an AUC of 0.768 (95% CI: 0.684-0.851) in detecting abnormalities in chest radiography, but could not specify the exact disease due to the lack of detailed patient history. For cases from 'Diagnose Please' ChatGPT provided diagnoses consistent with or very similar to the reference answers. ChatGPT-4V demonstrated an impressive ability to combine patient history with radiological images to make diagnoses and directly design treatment plans based on images, suggesting its potential for future application in clinical practice.
-
-> **Citation:** Zhu L, Mou W, Lai Y, Chen J, Lin S, Xu L, Lin J, Guo Z, Yang T, Lin A et al.. Step into the era of large multimodal models: a pilot study on ChatGPT-4V(ision)'s ability to interpret radiological images. Int J Surg. 2024;110(7):4096-4102. doi:10.1097/JS9.0000000000001359
-
-**Publication No. 7**
+**Publication No. 2**
 
 **Publication Year:** 2025
 
-**Journal:** NPJ digital medicine|IF:12.4
+**Journal:** NPJ digital medicine, **IF: **12.4
 
 **Title:** Computational frameworks transform antagonism to synergy in optimizing combination therapies
 
@@ -115,27 +35,11 @@ title: Publications
 
 > **Citation:** Chen J, Lin A, Jiang A, Qi C, Liu Z, Cheng Q, Yuan S, Luo P. Computational frameworks transform antagonism to synergy in optimizing combination therapies. NPJ Digit Med. 2025;8(1):44. doi:10.1038/s41746-025-01435-2
 
-**Publication No. 8**
-
-**Publication Year:** 2024
-
-**Journal:** Cell reports. Medicine|IF:11.7
-
-**Title:** Harnessing artificial intelligence for prostate cancer management
-
-**Full Author:** Lingxuan Zhu, Jiahua Pan, Weiming Mou, Longxin Deng, Yinjie Zhu, Yanqing Wang, Gyan Pareek, Elias Hyams, BeneditoA Carneiro, MatthewJ Hadfield, WafikS El-Deiry, Tao Yang, Tao Tan, Tong Tong, Na Ta, Yan Zhu, Yisha Gao, Yancheng Lai, Liang Cheng, Rui Chen, Wei Xue
-
-**Link:** <https://doi.org/10.1016/j.xcrm.2024.101506>
-
-> **Summary:** Prostate cancer (PCa) is a common malignancy in males. The pathology review of PCa is crucial for clinical decision-making, but traditional pathology review is labor intensive and subjective to some extent. Digital pathology and whole-slide imaging enable the application of artificial intelligence (AI) in pathology. This review highlights the success of AI in detecting and grading PCa, predicting patient outcomes, and identifying molecular subtypes. We propose that AI-based methods could collaborate with pathologists to reduce workload and assist clinicians in formulating treatment recommendations. We also introduce the general process and challenges in developing AI pathology models for PCa. Importantly, we summarize publicly available datasets and open-source codes to facilitate the utilization of existing data and the comparison of the performance of different models to improve future studies.
-
-> **Citation:** Zhu L, Pan J, Mou W, Deng L, Zhu Y, Wang Y, Pareek G, Hyams E, Carneiro BA, Hadfield MJ et al.. Harnessing artificial intelligence for prostate cancer management. Cell Rep Med. 2024;5(4):101506. doi:10.1016/j.xcrm.2024.101506
-
-**Publication No. 9**
+**Publication No. 3**
 
 **Publication Year:** 2025
 
-**Journal:** Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association|IF:11.6
+**Journal:** Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association, **IF: **11.6
 
 **Title:** Ensuring Consistency and Accuracy in Evaluating ChatGPT-4 for Clinical Recommendations
 
@@ -147,27 +51,107 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Luo P. Ensuring Consistency and Accuracy in Evaluating ChatGPT-4 for Clinical Recommendations. Clin Gastroenterol Hepatol. 2025;23(1):189-190. doi:10.1016/j.cgh.2024.05.028
 
-**Publication No. 10**
-
-**Publication Year:** 2023
-
-**Journal:** Resuscitation|IF:6.5
-
-**Title:** ChatGPT can pass the AHA exams: Open-ended questions outperform multiple-choice format
-
-**Full Author:** Lingxuan Zhu, Weiming Mou, Tao Yang, Rui Chen
-
-**Link:** <https://doi.org/10.1016/j.resuscitation.2023.109783>
-
-> **Summary:** The study by Fijačko et al. tested ChatGPT's ability to pass the BLS and ACLS exams of AHA, but found that ChatGPT failed both exams. A limitation of their study was using ChatGPT to generate only one response, which may have introduced bias. When generating three responses per question, ChatGPT can pass BLS exam with an overall accuracy of 84%. When incorrectly answered questions were rewritten as open-ended questions, ChatGPT's accuracy rate increased to 96% and 92.1% for the BLS and ACLS exams, respectively, allowing ChatGPT to pass both exams with outstanding results.
-
-> **Citation:** Zhu L, Mou W, Yang T, Chen R. ChatGPT can pass the AHA exams: Open-ended questions outperform multiple-choice format. Resuscitation. 2023;188:109783. doi:10.1016/j.resuscitation.2023.109783
-
-**Publication No. 11**
+**Publication No. 4**
 
 **Publication Year:** 2024
 
-**Journal:** Resuscitation|IF:6.5
+**Journal:** Journal of hematology & oncology, **IF: **29.5
+
+**Title:** ChatGPT's ability to generate realistic experimental images poses a new challenge to academic integrity
+
+**Full Author:** Lingxuan Zhu, Yancheng Lai, Weiming Mou, Haoran Zhang, Anqi Lin, Chang Qi, Tao Yang, Liling Xu, Jian Zhang, Peng Luo
+
+**Link:** <https://doi.org/10.1186/s13045-024-01543-8>
+
+> **Summary:** The rapid advancements in large language models (LLMs) such as ChatGPT have raised concerns about their potential impact on academic integrity. While initial concerns focused on ChatGPT's writing capabilities, recent updates have integrated DALL-E 3's image generation features, extending the risks to visual evidence in biomedical research. Our tests revealed ChatGPT's nearly barrier-free image generation feature can be used to generate experimental result images, such as blood smears, Western Blot, immunofluorescence and so on. Although the current ability of ChatGPT to generate experimental images is limited, the risk of misuse is evident. This development underscores the need for immediate action. We suggest that AI providers restrict the generation of experimental image, develop tools to detect AI-generated images, and consider adding "invisible watermarks" to the generated images. By implementing these measures, we can better ensure the responsible use of AI technology in academic research and maintain the integrity of scientific evidence.
+
+> **Citation:** Zhu L, Lai Y, Mou W, Zhang H, Lin A, Qi C, Yang T, Xu L, Zhang J, Luo P. ChatGPT's ability to generate realistic experimental images poses a new challenge to academic integrity. J Hematol Oncol. 2024;17(1):27. doi:10.1186/s13045-024-01543-8
+
+**Publication No. 5**
+
+**Publication Year:** 2024
+
+**Journal:** JAMA oncology, **IF: **22.5
+
+**Title:** Ensuring Safety and Consistency in Artificial Intelligence Chatbot Responses
+
+**Full Author:** Lingxuan Zhu, Weiming Mou, Peng Luo
+
+**Link:** <https://doi.org/10.1001/jamaoncol.2024.4324>
+
+> **Summary:** The commentary emphasizes the potential of artificial intelligence (AI) chatbots in providing empathetic and readable responses to cancer-related questions but raises significant concerns regarding their accuracy and consistency. While AI models are effective in certain aspects like engagement and communication, the authors stress that inaccuracies in the information provided could pose serious risks to patient safety. The inherent randomness of large language models (LLMs) can lead to inconsistent responses, further complicating their reliability. The authors argue that for AI to be safely integrated into clinical settings, models must prioritize accuracy, consistency, and safety, ensuring that they consistently deliver reliable information to patients.
+
+> **Citation:** Zhu L, Mou W, Luo P. Ensuring Safety and Consistency in Artificial Intelligence Chatbot Responses. JAMA Oncol. 2024;10(11):1597. doi:10.1001/jamaoncol.2024.4324
+
+**Publication No. 6**
+
+**Publication Year:** 2024
+
+**Journal:** JAMA internal medicine, **IF: **22.5
+
+**Title:** Potential of Large Language Models as Tools Against Medical Disinformation
+
+**Full Author:** Lingxuan Zhu, Weiming Mou, Peng Luo
+
+**Link:** <https://doi.org/10.1001/jamainternmed.2024.0020>
+
+> **Summary:** The commentary explores the potential of large language models (LLMs) in combating medical disinformation, acknowledging both the risks and opportunities they present. While agreeing with concerns about LLMs enabling the spread of false medical information, the authors highlight that the problem predates AI technology. They argue that rather than focusing solely on restricting LLMs, efforts should be made to empower users to assess the reliability of online health information. The commentary demonstrates how well-trained LLMs can be powerful tools in identifying and correcting inaccurate medical claims. The authors’ experiment with multiple popular LLMs showed that most responses flagged misinformation, particularly in areas like vaccine safety, by providing evidence-based explanations. These models' ability to reference the latest authoritative information, such as CDC data, reinforces their potential to challenge health misinformation, including emerging threats like novel infectious diseases. The commentary stresses that the positive potential of LLMs in addressing medical disinformation should not be overlooked.
+
+> **Citation:** Zhu L, Mou W, Luo P. Potential of Large Language Models as Tools Against Medical Disinformation. JAMA Intern Med. 2024;184(4):450. doi:10.1001/jamainternmed.2024.0020
+
+**Publication No. 7**
+
+**Publication Year:** 2024
+
+**Journal:** International journal of surgery (London, England), **IF: **12.5
+
+**Title:** Advancing generative artificial intelligence in medicine: recommendations for standardized evaluation
+
+**Full Author:** Anqi Lin, Lingxuan Zhu, Weiming Mou, Zizhi Yuan, Quan Cheng, Aimin Jiang, Peng Luo
+
+**Link:** <https://doi.org/10.1097/JS9.0000000000001583>
+
+> **Summary:** This paper proposes a comprehensive framework for standardized evaluation of generative AI in medicine, addressing the current lack of standardized assessment methods. The authors recommend a three-pronged approach: establishing standardized scoring criteria with multiple complementary evaluation methods (including Reference Answer Accuracy Rate, Subjective Answer Accuracy Rate, and Strict Accuracy Rate), implementing rigorous evaluation processes (including pre-review alignment, multi-reviewer scoring, and independent audits), and utilizing statistical analysis to quantify scoring differences and refine evaluation methods. The recommendations aim to enhance reliability and consistency in assessing generative AI's capabilities in healthcare applications, acknowledging both the technology's potential and the need for careful validation before clinical implementation.
+
+> **Citation:** Lin A, Zhu L, Mou W, Yuan Z, Cheng Q, Jiang A, Luo P. Advancing generative artificial intelligence in medicine: recommendations for standardized evaluation. Int J Surg. 2024;110(8):4547-4551. doi:10.1097/JS9.0000000000001583
+
+**Publication No. 8**
+
+**Publication Year:** 2024
+
+**Journal:** International journal of surgery (London, England), **IF: **12.5
+
+**Title:** Step into the era of large multimodal models: a pilot study on ChatGPT-4V(ision)'s ability to interpret radiological images
+
+**Full Author:** Lingxuan Zhu, Weiming Mou, Yancheng Lai, Jinghong Chen, Shujia Lin, Liling Xu, Junda Lin, Zeji Guo, Tao Yang, Anqi Lin, Chang Qi, Ling Gan, Jian Zhang, Peng Luo
+
+**Link:** <https://doi.org/10.1097/JS9.0000000000001359>
+
+> **Summary:** The introduction of ChatGPT-4V's 'Chat with images' feature represents the beginning of the era of large multimodal models (LMMs), which allows ChatGPT to process and answer questions based on uploaded images. This advancement has the potential to transform how surgical teams utilize radiographic data, as radiological interpretation is crucial for surgical planning and postoperative care. However, a comprehensive evaluation of ChatGPT-4V's capabilities in interpret radiological images and formulating treatment plans remains to be explored. Three types of questions were collected: (1) 87 USMLE-style questions, submitting only the question stems and images without providing options to assess ChatGPT's diagnostic capability. For questions involving treatment plan formulations, a five-point Likert scale was used to assess ChatGPT's proposed treatment plan. The 87 questions were then adapted by removing detailed patient history to assess its contribution to diagnosis. The diagnostic performance of ChatGPT-4V was also tested when only medical history was provided. (2) We randomly selected 100 chest radiography from the ChestX-ray8 database to test the ability of ChatGPT-4V to identify abnormal chest radiography. (3) Cases from the 'Diagnose Please' section in the Radiology journal were collected to evaluate the performance of ChatGPT-4V in diagnosing complex cases. Three responses were collected for each question. ChatGPT-4V achieved a diagnostic accuracy of 77.01% for USMLE-style questions. The average score of ChatGPT-4V's treatment plans was 3.97 (Interquartile Range: 3.33-4.67). Removing detailed patient history dropped the diagnostic accuracy to 19.54% (P<0.0001). ChatGPT-4V achieved an AUC of 0.768 (95% CI: 0.684-0.851) in detecting abnormalities in chest radiography, but could not specify the exact disease due to the lack of detailed patient history. For cases from 'Diagnose Please' ChatGPT provided diagnoses consistent with or very similar to the reference answers. ChatGPT-4V demonstrated an impressive ability to combine patient history with radiological images to make diagnoses and directly design treatment plans based on images, suggesting its potential for future application in clinical practice.
+
+> **Citation:** Zhu L, Mou W, Lai Y, Chen J, Lin S, Xu L, Lin J, Guo Z, Yang T, Lin A et al.. Step into the era of large multimodal models: a pilot study on ChatGPT-4V(ision)'s ability to interpret radiological images. Int J Surg. 2024;110(7):4096-4102. doi:10.1097/JS9.0000000000001359
+
+**Publication No. 9**
+
+**Publication Year:** 2024
+
+**Journal:** Cell reports. Medicine, **IF: **11.7
+
+**Title:** Harnessing artificial intelligence for prostate cancer management
+
+**Full Author:** Lingxuan Zhu, Jiahua Pan, Weiming Mou, Longxin Deng, Yinjie Zhu, Yanqing Wang, Gyan Pareek, Elias Hyams, BeneditoA Carneiro, MatthewJ Hadfield, WafikS El-Deiry, Tao Yang, Tao Tan, Tong Tong, Na Ta, Yan Zhu, Yisha Gao, Yancheng Lai, Liang Cheng, Rui Chen, Wei Xue
+
+**Link:** <https://doi.org/10.1016/j.xcrm.2024.101506>
+
+> **Summary:** Prostate cancer (PCa) is a common malignancy in males. The pathology review of PCa is crucial for clinical decision-making, but traditional pathology review is labor intensive and subjective to some extent. Digital pathology and whole-slide imaging enable the application of artificial intelligence (AI) in pathology. This review highlights the success of AI in detecting and grading PCa, predicting patient outcomes, and identifying molecular subtypes. We propose that AI-based methods could collaborate with pathologists to reduce workload and assist clinicians in formulating treatment recommendations. We also introduce the general process and challenges in developing AI pathology models for PCa. Importantly, we summarize publicly available datasets and open-source codes to facilitate the utilization of existing data and the comparison of the performance of different models to improve future studies.
+
+> **Citation:** Zhu L, Pan J, Mou W, Deng L, Zhu Y, Wang Y, Pareek G, Hyams E, Carneiro BA, Hadfield MJ et al.. Harnessing artificial intelligence for prostate cancer management. Cell Rep Med. 2024;5(4):101506. doi:10.1016/j.xcrm.2024.101506
+
+**Publication No. 10**
+
+**Publication Year:** 2024
+
+**Journal:** Resuscitation, **IF: **6.5
 
 **Title:** What is the best approach to assessing generative AI in medicine?
 
@@ -179,27 +163,11 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Xie J, Luo P, Chen R. What is the best approach to assessing generative AI in medicine?. Resuscitation. 2024;197:110164. doi:10.1016/j.resuscitation.2024.110164
 
-**Publication No. 12**
-
-**Publication Year:** 2023
-
-**Journal:** Journal of translational medicine|IF:6.1
-
-**Title:** Can the ChatGPT and other large language models with internet-connected database solve the questions and concerns of patient with prostate cancer and help democratize medical knowledge?
-
-**Full Author:** Lingxuan Zhu, Weiming Mou, Rui Chen
-
-**Link:** <https://doi.org/10.1186/s12967-023-04123-5>
-
-> **Summary:** This correspondence explores the best approach to assessing generative AI, particularly in the context of medical applications like ChatGPT. The authors discuss previous studies evaluating ChatGPT’s ability to pass the American Heart Association (AHA) BLS and ACLS exams, noting that earlier assessments underestimated its potential due to methodological limitations, such as the lack of repeated testing and exclusion of image-based questions. With the release of ChatGPT-4V, these limitations were overcome, allowing for more comprehensive testing. The authors argue that evaluating AI’s capabilities should not be confined to exams alone. Similar to how medical students progress from basic knowledge assessments to real-world clinical practice, AI should also be assessed in simulated clinical scenarios to better understand its application in healthcare. The authors advocate for comprehensive evaluations of generative AI that move beyond theoretical exams to real-world clinical simulations, enabling a deeper understanding of its potential impact in clinical settings.
-
-> **Citation:** Zhu L, Mou W, Chen R. Can the ChatGPT and other large language models with internet-connected database solve the questions and concerns of patient with prostate cancer and help democratize medical knowledge?. J Transl Med. 2023;21(1):269. doi:10.1186/s12967-023-04123-5
-
-**Publication No. 13**
+**Publication No. 11**
 
 **Publication Year:** 2024
 
-**Journal:** Journal of translational medicine|IF:6.1
+**Journal:** Journal of translational medicine, **IF: **6.1
 
 **Title:** Language and cultural bias in AI: comparing the performance of large language models developed in different countries on Traditional Chinese Medicine highlights the need for localized models
 
@@ -211,11 +179,11 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Lai Y, Lin J, Luo P. Language and cultural bias in AI: comparing the performance of large language models developed in different countries on Traditional Chinese Medicine highlights the need for localized models. J Transl Med. 2024;22(1):319. doi:10.1186/s12967-024-05128-4
 
-**Publication No. 14**
+**Publication No. 12**
 
 **Publication Year:** 2024
 
-**Journal:** Journal of medical Internet research|IF:5.8
+**Journal:** Journal of medical Internet research, **IF: **5.8
 
 **Title:** Multimodal ChatGPT-4V for Electrocardiogram Interpretation: Promise and Limitations
 
@@ -227,11 +195,11 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Wu K, Lai Y, Lin A, Yang T, Zhang J, Luo P. Multimodal ChatGPT-4V for Electrocardiogram Interpretation: Promise and Limitations. J Med Internet Res. 2024;26:e54607. doi:10.2196/54607
 
-**Publication No. 15**
+**Publication No. 13**
 
 **Publication Year:** 2024
 
-**Journal:** JMIR mHealth and uHealth|IF:5.4
+**Journal:** JMIR mHealth and uHealth, **IF: **5.4
 
 **Title:** The Evaluation of Generative AI Should Include Repetition to Assess Stability
 
@@ -243,11 +211,11 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Hong C, Yang T, Lai Y, Qi C, Lin A, Zhang J, Luo P. The Evaluation of Generative AI Should Include Repetition to Assess Stability. JMIR Mhealth Uhealth. 2024;12:e57978. doi:10.2196/57978
 
-**Publication No. 16**
+**Publication No. 14**
 
 **Publication Year:** 2024
 
-**Journal:** JCO clinical cancer informatics|IF:3.3
+**Journal:** JCO clinical cancer informatics, **IF: **3.3
 
 **Title:** Multimodal Approach in the Diagnosis of Urologic Malignancies: Critical Assessment of ChatGPT-4V's Image-Reading Capabilities
 
@@ -258,4 +226,36 @@ title: Publications
 > **Summary:** ChatGPT-4V model with image interpretation tested for distinguishing kidney & prostate tumors from normal tissue.
 
 > **Citation:** Zhu L, Lai Y, Ta N, Cheng L, Chen R. Multimodal Approach in the Diagnosis of Urologic Malignancies: Critical Assessment of ChatGPT-4V's Image-Reading Capabilities. JCO Clin Cancer Inform. 2024;8:e2300275. doi:10.1200/CCI.23.00275
+
+**Publication No. 15**
+
+**Publication Year:** 2023
+
+**Journal:** Resuscitation, **IF: **6.5
+
+**Title:** ChatGPT can pass the AHA exams: Open-ended questions outperform multiple-choice format
+
+**Full Author:** Lingxuan Zhu, Weiming Mou, Tao Yang, Rui Chen
+
+**Link:** <https://doi.org/10.1016/j.resuscitation.2023.109783>
+
+> **Summary:** The study by Fijačko et al. tested ChatGPT's ability to pass the BLS and ACLS exams of AHA, but found that ChatGPT failed both exams. A limitation of their study was using ChatGPT to generate only one response, which may have introduced bias. When generating three responses per question, ChatGPT can pass BLS exam with an overall accuracy of 84%. When incorrectly answered questions were rewritten as open-ended questions, ChatGPT's accuracy rate increased to 96% and 92.1% for the BLS and ACLS exams, respectively, allowing ChatGPT to pass both exams with outstanding results.
+
+> **Citation:** Zhu L, Mou W, Yang T, Chen R. ChatGPT can pass the AHA exams: Open-ended questions outperform multiple-choice format. Resuscitation. 2023;188:109783. doi:10.1016/j.resuscitation.2023.109783
+
+**Publication No. 16**
+
+**Publication Year:** 2023
+
+**Journal:** Journal of translational medicine, **IF: **6.1
+
+**Title:** Can the ChatGPT and other large language models with internet-connected database solve the questions and concerns of patient with prostate cancer and help democratize medical knowledge?
+
+**Full Author:** Lingxuan Zhu, Weiming Mou, Rui Chen
+
+**Link:** <https://doi.org/10.1186/s12967-023-04123-5>
+
+> **Summary:** This correspondence explores the best approach to assessing generative AI, particularly in the context of medical applications like ChatGPT. The authors discuss previous studies evaluating ChatGPT’s ability to pass the American Heart Association (AHA) BLS and ACLS exams, noting that earlier assessments underestimated its potential due to methodological limitations, such as the lack of repeated testing and exclusion of image-based questions. With the release of ChatGPT-4V, these limitations were overcome, allowing for more comprehensive testing. The authors argue that evaluating AI’s capabilities should not be confined to exams alone. Similar to how medical students progress from basic knowledge assessments to real-world clinical practice, AI should also be assessed in simulated clinical scenarios to better understand its application in healthcare. The authors advocate for comprehensive evaluations of generative AI that move beyond theoretical exams to real-world clinical simulations, enabling a deeper understanding of its potential impact in clinical settings.
+
+> **Citation:** Zhu L, Mou W, Chen R. Can the ChatGPT and other large language models with internet-connected database solve the questions and concerns of patient with prostate cancer and help democratize medical knowledge?. J Transl Med. 2023;21(1):269. doi:10.1186/s12967-023-04123-5
 
