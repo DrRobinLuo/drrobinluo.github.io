@@ -7,7 +7,7 @@ title: Publications
 
 **Publication Year:** 2025
 
-**Journal:** International journal of surgery (London, England), **_IF:_** 12.5
+**Journal:** International journal of surgery (London, England), **IF: 12.5**
 
 **Title:** ChatGPT's role in alleviating anxiety in total knee arthroplasty consent process: a randomized controlled trial pilot study
 
@@ -23,7 +23,7 @@ title: Publications
 
 **Publication Year:** 2025
 
-**Journal:** NPJ digital medicine, **_IF:_** 12.4
+**Journal:** NPJ digital medicine, **IF: 12.4**
 
 **Title:** Computational frameworks transform antagonism to synergy in optimizing combination therapies
 
@@ -39,7 +39,7 @@ title: Publications
 
 **Publication Year:** 2025
 
-**Journal:** Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association, **_IF:_** 11.6
+**Journal:** Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association, **IF: 11.6**
 
 **Title:** Ensuring Consistency and Accuracy in Evaluating ChatGPT-4 for Clinical Recommendations
 
@@ -55,7 +55,7 @@ title: Publications
 
 **Publication Year:** 2024
 
-**Journal:** Journal of hematology & oncology, **_IF:_** 29.5
+**Journal:** Journal of hematology & oncology, **IF: 29.5**
 
 **Title:** ChatGPT's ability to generate realistic experimental images poses a new challenge to academic integrity
 
@@ -71,7 +71,7 @@ title: Publications
 
 **Publication Year:** 2024
 
-**Journal:** JAMA oncology, **_IF:_** 22.5
+**Journal:** JAMA oncology, **IF: 22.5**
 
 **Title:** Ensuring Safety and Consistency in Artificial Intelligence Chatbot Responses
 
@@ -87,7 +87,7 @@ title: Publications
 
 **Publication Year:** 2024
 
-**Journal:** JAMA internal medicine, **_IF:_** 22.5
+**Journal:** JAMA internal medicine, **IF: 22.5**
 
 **Title:** Potential of Large Language Models as Tools Against Medical Disinformation
 
@@ -103,7 +103,7 @@ title: Publications
 
 **Publication Year:** 2024
 
-**Journal:** International journal of surgery (London, England), **_IF:_** 12.5
+**Journal:** International journal of surgery (London, England), **IF: 12.5**
 
 **Title:** Advancing generative artificial intelligence in medicine: recommendations for standardized evaluation
 
@@ -119,7 +119,7 @@ title: Publications
 
 **Publication Year:** 2024
 
-**Journal:** International journal of surgery (London, England), **_IF:_** 12.5
+**Journal:** International journal of surgery (London, England), **IF: 12.5**
 
 **Title:** Step into the era of large multimodal models: a pilot study on ChatGPT-4V(ision)'s ability to interpret radiological images
 
@@ -135,7 +135,7 @@ title: Publications
 
 **Publication Year:** 2024
 
-**Journal:** Cell reports. Medicine, **_IF:_** 11.7
+**Journal:** Cell reports. Medicine, **IF: 11.7**
 
 **Title:** Harnessing artificial intelligence for prostate cancer management
 
@@ -151,7 +151,7 @@ title: Publications
 
 **Publication Year:** 2024
 
-**Journal:** Resuscitation, **_IF:_** 6.5
+**Journal:** Resuscitation, **IF: 6.5**
 
 **Title:** What is the best approach to assessing generative AI in medicine?
 
@@ -167,7 +167,7 @@ title: Publications
 
 **Publication Year:** 2024
 
-**Journal:** Journal of translational medicine, **_IF:_** 6.1
+**Journal:** Journal of translational medicine, **IF: 6.1**
 
 **Title:** Language and cultural bias in AI: comparing the performance of large language models developed in different countries on Traditional Chinese Medicine highlights the need for localized models
 
@@ -183,7 +183,7 @@ title: Publications
 
 **Publication Year:** 2024
 
-**Journal:** Journal of medical Internet research, **_IF:_** 5.8
+**Journal:** Journal of medical Internet research, **IF: 5.8**
 
 **Title:** Multimodal ChatGPT-4V for Electrocardiogram Interpretation: Promise and Limitations
 
@@ -199,7 +199,7 @@ title: Publications
 
 **Publication Year:** 2024
 
-**Journal:** JMIR mHealth and uHealth, **_IF:_** 5.4
+**Journal:** JMIR mHealth and uHealth, **IF: 5.4**
 
 **Title:** The Evaluation of Generative AI Should Include Repetition to Assess Stability
 
@@ -215,7 +215,7 @@ title: Publications
 
 **Publication Year:** 2024
 
-**Journal:** JCO clinical cancer informatics, **_IF:_** 3.3
+**Journal:** JCO clinical cancer informatics, **IF: 3.3**
 
 **Title:** Multimodal Approach in the Diagnosis of Urologic Malignancies: Critical Assessment of ChatGPT-4V's Image-Reading Capabilities
 
@@ -231,7 +231,7 @@ title: Publications
 
 **Publication Year:** 2023
 
-**Journal:** Resuscitation, **_IF:_** 6.5
+**Journal:** Resuscitation, **IF: 6.5**
 
 **Title:** ChatGPT can pass the AHA exams: Open-ended questions outperform multiple-choice format
 
@@ -247,7 +247,7 @@ title: Publications
 
 **Publication Year:** 2023
 
-**Journal:** Journal of translational medicine, **_IF:_** 6.1
+**Journal:** Journal of translational medicine, **IF: 6.1**
 
 **Title:** Can the ChatGPT and other large language models with internet-connected database solve the questions and concerns of patient with prostate cancer and help democratize medical knowledge?
 
