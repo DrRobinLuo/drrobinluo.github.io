@@ -39,38 +39,6 @@ title: Publications
 
 **Publication Year:** 2025
 
-**Journal:** View, **IF: 9.7**
-
-**Title:** Unveiling Large Multimodal Models in Pulmonary CT: A Comparative Assessment of Generative AI Performance in Lung Cancer Diagnostics
-
-**Full Author:** Lihaoyun Huang, Anqi Lin, Haitao Li, Qun Wang, Junyi Shen, Aimin Jiang, Chang Qi, Wenyi Gan, Lingxuan Zhu, Weiming Mou, Dongqiang Zeng, Bufu Tang, Mingjia Xiao, Guangdi Chu, Jian Zhang, Quan Cheng, Peng Luo, Ting Wei
-
-**Link:** <https://doi.org/10.1002/VIW.20250077>
-
-> **Summary:** This retrospective study evaluated the diagnostic performance of three generative AI models (GPT-4-turbo, Gemini-pro-vision, and Claude-3-opus) in interpreting chest CT scans from 404 patients with lung neoplasms (n=184) and non-malignant conditions (n=210), with external validation using TCGA (n=106) and MIDRC (n=110) datasets. Following standardized CT processing, diagnostic accuracy was assessed using chi-square tests, ROC analyses, and Likert scale scoring across varying clinical scenarios. While Gemini and Claude outperformed GPT in single-image diagnostics, all models showed decreased accuracy when additional CT slices or clinical histories were incorporated. ROC analysis revealed limited but improvable performance in simplified prompting environments or when integrated with machine learning methods. Feature analysis indicated that models primarily relied on morphology and margins for malignancy predictions but struggled with critical imaging features and occasionally fabricated data. These findings demonstrate that while generative AI shows variable potential for pulmonary CT diagnosis, significant limitations in processing complex multimodal information present substantial challenges for clinical integration, emphasizing the need for continued development to enhance model robustness and reliability before healthcare adoption.
-
-> **Citation:** Huang L, Lin A, Li H, Wang Q, Shen J, Jiang A, et al. Unveiling Large Multimodal Models in Pulmonary CT: A Comparative Assessment of Generative AI Performance in Lung Cancer Diagnostics. View. 2024;5(3):234-45.
-
-**Publication No. 4**
-
-**Publication Year:** 2025
-
-**Journal:** The Lancet Regional Health – Western Pacific, **IF: 7.4**
-
-**Title:** Harnessing large multimodal models in pulmonary CT: the generative AI edge in lung cancer diagnostics
-
-**Full Author:** Lihaoyun Huang, Anqi Lin, Jian Zhang, Peng Luo, Ting Wei
-
-**Link:** <https://doi.org/10.1016/j.lanwpc.2024.101336>
-
-> **Summary:** This study evaluated three Gen-AI models (GPT-4-turbo, Gemini-pro-vision, and Claude-3-opus) for lung tumor recognition in CT images, finding Gemini performed best in single-image analysis (92.21% accuracy), followed closely by Claude (91.49%), while GPT lagged (65.22%); performance declined with increased complexity for all models, though Claude showed the most stability; feature analysis revealed strengths in recognizing tumor morphology and margins but significant errors in complex cases; after optimization through regression techniques, performance improved substantially (AUC ~0.89), suggesting promising potential for Gen-AI in simplified lung CT analysis while highlighting current limitations for complex clinical applications.
-
-> **Citation:** Huang L, Lin A, Zhang J, Luo P, Wei T. Harnessing large multimodal models in pulmonary CT: the generative AI edge in lung cancer diagnostics. Lancet Reg Health West Pac. 2024;55:101336.
-
-**Publication No. 5**
-
-**Publication Year:** 2025
-
 **Journal:** International journal of surgery (London, England), **IF: 12.5**
 
 **Title:** ChatGPT's role in alleviating anxiety in total knee arthroplasty consent process: a randomized controlled trial pilot study
@@ -83,7 +51,7 @@ title: Publications
 
 > **Citation:** Gan W, Ouyang J, She G, Xue Z, Zhu L, Lin A, Mou W, Jiang A, Qi C, Cheng Q et al.. ChatGPT's role in alleviating anxiety in total knee arthroplasty consent process: a randomized controlled trial pilot study. Int J Surg. 2025;:. doi:10.1097/JS9.0000000000002223
 
-**Publication No. 6**
+**Publication No. 4**
 
 **Publication Year:** 2025
 
@@ -99,7 +67,7 @@ title: Publications
 
 > **Citation:** Chen J, Lin A, Jiang A, Qi C, Liu Z, Cheng Q, Yuan S, Luo P. Computational frameworks transform antagonism to synergy in optimizing combination therapies. NPJ Digit Med. 2025;8(1):44. doi:10.1038/s41746-025-01435-2
 
-**Publication No. 7**
+**Publication No. 5**
 
 **Publication Year:** 2025
 
@@ -115,7 +83,87 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Luo P. Ensuring Consistency and Accuracy in Evaluating ChatGPT-4 for Clinical Recommendations. Clin Gastroenterol Hepatol. 2025;23(1):189-190. doi:10.1016/j.cgh.2024.05.028
 
+**Publication No. 6**
+
+**Publication Year:** 2025
+
+**Journal:** View, **IF: 9.7**
+
+**Title:** Unveiling Large Multimodal Models in Pulmonary CT: A Comparative Assessment of Generative AI Performance in Lung Cancer Diagnostics
+
+**Full Author:** Lihaoyun Huang, Anqi Lin, Haitao Li, Qun Wang, Junyi Shen, Aimin Jiang, Chang Qi, Wenyi Gan, Lingxuan Zhu, Weiming Mou, Dongqiang Zeng, Bufu Tang, Mingjia Xiao, Guangdi Chu, Jian Zhang, Quan Cheng, Peng Luo, Ting Wei
+
+**Link:** <https://doi.org/10.1002/VIW.20250077>
+
+> **Summary:** This retrospective study evaluated the diagnostic performance of three generative AI models (GPT-4-turbo, Gemini-pro-vision, and Claude-3-opus) in interpreting chest CT scans from 404 patients with lung neoplasms (n=184) and non-malignant conditions (n=210), with external validation using TCGA (n=106) and MIDRC (n=110) datasets. Following standardized CT processing, diagnostic accuracy was assessed using chi-square tests, ROC analyses, and Likert scale scoring across varying clinical scenarios. While Gemini and Claude outperformed GPT in single-image diagnostics, all models showed decreased accuracy when additional CT slices or clinical histories were incorporated. ROC analysis revealed limited but improvable performance in simplified prompting environments or when integrated with machine learning methods. Feature analysis indicated that models primarily relied on morphology and margins for malignancy predictions but struggled with critical imaging features and occasionally fabricated data. These findings demonstrate that while generative AI shows variable potential for pulmonary CT diagnosis, significant limitations in processing complex multimodal information present substantial challenges for clinical integration, emphasizing the need for continued development to enhance model robustness and reliability before healthcare adoption.
+
+> **Citation:** Huang L, Lin A, Li H, Wang Q, Shen J, Jiang A, et al. Unveiling Large Multimodal Models in Pulmonary CT: A Comparative Assessment of Generative AI Performance in Lung Cancer Diagnostics. View. 2024;5(3):234-45.
+
+**Publication No. 7**
+
+**Publication Year:** 2025
+
+**Journal:** Briefings in Bioinformatics, **IF: 7.7**
+
+**Title:** Bridging Artificial Intelligence and Biological Sciences: A Comprehensive Review of Large Language Models in Bioinformatics
+
+**Full Author:** 
+
+**Link:** <>
+
+> **Summary:** Large Language Models (LLMs), representing a breakthrough advancement in artificial intelligence, have demonstrated substantial application value and development potential in bioinformatics research, particularly showing significant progress in the processing and analysis of complex biological data. This comprehensive review systematically examines the development and applications of LLMs in bioinformatics, with particular emphasis on their advancements in protein and nucleic acid structure prediction, omics analysis, drug design and screening, and biomedical literature mining. This work highlights the distinctive capabilities of LLMs in end-to-end learning and knowledge transfer paradigms. Additionally, this paper thoroughly discusses the major challenges confronting LLMs in current applications, including key issues such as model interpretability and data bias. Furthermore, this review comprehensively explores the potential of LLMs in cross-modal learning and interdisciplinary development. In conclusion, this paper aims to systematically summarize the current research status of LLMs in bioinformatics, objectively evaluate their advantages and limitations, and provide insights and recommendations for future research directions, thereby positioning LLMs as essential tools in bioinformatics research and fostering innovative developments in the biomedical field.
+
+> **Citation:** Lin A, Ye J, Qi C, Zhu L, Mou W, Gan W, Zeng D, Tang B, Xiao M, Chu G, Peng S, Wong HZH, Zhang L, Zhang H, Deng X, Li K, Zhang J, Jiang A, Li Z, Luo P.
+
 **Publication No. 8**
+
+**Publication Year:** 2025
+
+**Journal:** The Lancet Regional Health – Western Pacific, **IF: 7.4**
+
+**Title:** Harnessing large multimodal models in pulmonary CT: the generative AI edge in lung cancer diagnostics
+
+**Full Author:** Lihaoyun Huang, Anqi Lin, Jian Zhang, Peng Luo, Ting Wei
+
+**Link:** <https://doi.org/10.1016/j.lanwpc.2024.101336>
+
+> **Summary:** This study evaluated three Gen-AI models (GPT-4-turbo, Gemini-pro-vision, and Claude-3-opus) for lung tumor recognition in CT images, finding Gemini performed best in single-image analysis (92.21% accuracy), followed closely by Claude (91.49%), while GPT lagged (65.22%); performance declined with increased complexity for all models, though Claude showed the most stability; feature analysis revealed strengths in recognizing tumor morphology and margins but significant errors in complex cases; after optimization through regression techniques, performance improved substantially (AUC ~0.89), suggesting promising potential for Gen-AI in simplified lung CT analysis while highlighting current limitations for complex clinical applications.
+
+> **Citation:** Huang L, Lin A, Zhang J, Luo P, Wei T. Harnessing large multimodal models in pulmonary CT: the generative AI edge in lung cancer diagnostics. Lancet Reg Health West Pac. 2024;55:101336.
+
+**Publication No. 9**
+
+**Publication Year:** 2025
+
+**Journal:** Current Molecular Pharmacology, **IF: 2.9**
+
+**Title:** Large Language Models in Drug Development: Current Progress and Future Directions
+
+**Full Author:** Anqi Lin, Xiuhui Fang, Aimin Jiang, Chang Qi, Wenyi Gan, Lingxuan Zhu, Weiming Mou, Dongqiang Zeng, Mingjia Xiao, Guangdi Chu, Shengkun Peng, Hank Z.H. Wong, Lin Zhang, Hengguo Zhang, Xinpei Deng, Quan Cheng, Haoran Zhang, Zhuocheng Zhong, Zhengrui Li, Bufu Tang, Peng Luo
+
+**Link:** <>
+
+> **Summary:** Drug development is an exceedingly complex and time-consuming process, traditionally characterized by high costs and failure rates. Emerging large language models (LLMs) are poised to revolutionize pharmaceutical research and development, offering unprecedented capabilities in data analysis and generation. However, their transformative potential is contingent upon addressing substantial inherent challenges. This correspondence argues that the central imperative for the successful integration of LLMs into drug development lies in focused efforts to enhance their reliability, interpretability, and synergistic collaboration with existing biomedical knowledge and experimental validation. We systematically elucidate the current applications of LLMs across the drug development pipeline, critically examine the major challenges they presently face—including data quality, model explainability, and ethical considerations—and provide a scientific outlook on future research directions essential for realizing their full, responsible impact.
+
+> **Citation:** Lin A, Fang X, Jiang A, Qi C, Gan W, Zhu L, Mou W, Zeng D, Xiao M, Chu G, Peng S, Wong HZH, Zhang L, Zhang H, Deng X, Cheng Q, Zhang H, Zhong Z, Li Z, Tang B, Luo P
+
+**Publication No. 10**
+
+**Publication Year:** 2025
+
+**Journal:** Clinical and Translational Discovery, **IF: 1.9**
+
+**Title:** Evaluating the Potential Risks of Employing Large Language Models in Peer Review
+
+**Full Author:** Lingxuan Zhu, Yancheng Lai, Jiarui Xie, Weiming Mou, Lihaoyun Huang, Chang Qi, Tao Yang, Aimin Jiang, Wenyi Gan, Dongqiang Zeng, Bufu Tang, Mingjia Xiao, Guangdi Chu, Zaoqu Liu, Quan Cheng, Anqi Lin, Peng Luo
+
+**Link:** <>
+
+> **Summary:** Objective This study aims to systematically investigate the potential harms of Large Language Models (LLMs) in the peer review process.  Background LLMs are increasingly used in academic processes, including peer review. While they can address challenges like reviewer scarcity and review efficiency, concerns about fairness, transparency and potential biases in LLM-generated reviews have not been thoroughly investigated.  Methods Claude 2.0 was used to generate peer review reports, rejection recommendations, citation requests and refutations for 20 original, unmodified cancer biology manuscripts obtained from eLife's new publishing model. Artificial intelligence (AI) detection tools (zeroGPT and GPTzero) assessed whether the reviews were identifiable as LLM-generated.All LLM-generated outputs were evaluated for reasonableness by two expert on a five-point Likert scale.  Results LLM-generated reviews were somewhat consistent with human reviews but lacked depth, especially in detailed critique. The model proved highly proficient at generating convincing rejection comments and could create plausible citation requests, including requests for unrelated references. AI detectors struggled to identify LLM-generated reviews, with 82.8% of responses classified as human-written by GPTzero.  Conclusions LLMs can be readily misused to undermine the peer review process by generating biased, manipulative, and difficult-to-detect content, posing a significant threat to academic integrity. Guidelines and detection tools are needed to ensure LLMs enhance rather than harm the peer review process.
+
+> **Citation:** Zhu L, Lai Y, Xie J, Mou W, Huang L, Qi C, Yang T, Jiang A, Gan W, Zeng D, Tang B, Xiao M, Chu G, Liu Z, Cheng Q, Lin A, Luo P
+
+**Publication No. 11**
 
 **Publication Year:** 2024
 
@@ -131,7 +179,7 @@ title: Publications
 
 > **Citation:** Zhu L, Lai Y, Mou W, Zhang H, Lin A, Qi C, Yang T, Xu L, Zhang J, Luo P. ChatGPT's ability to generate realistic experimental images poses a new challenge to academic integrity. J Hematol Oncol. 2024;17(1):27. doi:10.1186/s13045-024-01543-8
 
-**Publication No. 9**
+**Publication No. 12**
 
 **Publication Year:** 2024
 
@@ -147,7 +195,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Luo P. Ensuring Safety and Consistency in Artificial Intelligence Chatbot Responses. JAMA Oncol. 2024;10(11):1597. doi:10.1001/jamaoncol.2024.4324
 
-**Publication No. 10**
+**Publication No. 13**
 
 **Publication Year:** 2024
 
@@ -163,7 +211,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Luo P. Potential of Large Language Models as Tools Against Medical Disinformation. JAMA Intern Med. 2024;184(4):450. doi:10.1001/jamainternmed.2024.0020
 
-**Publication No. 11**
+**Publication No. 14**
 
 **Publication Year:** 2024
 
@@ -179,7 +227,7 @@ title: Publications
 
 > **Citation:** Lin A, Zhu L, Mou W, Yuan Z, Cheng Q, Jiang A, Luo P. Advancing generative artificial intelligence in medicine: recommendations for standardized evaluation. Int J Surg. 2024;110(8):4547-4551. doi:10.1097/JS9.0000000000001583
 
-**Publication No. 12**
+**Publication No. 15**
 
 **Publication Year:** 2024
 
@@ -195,7 +243,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Lai Y, Chen J, Lin S, Xu L, Lin J, Guo Z, Yang T, Lin A et al.. Step into the era of large multimodal models: a pilot study on ChatGPT-4V(ision)'s ability to interpret radiological images. Int J Surg. 2024;110(7):4096-4102. doi:10.1097/JS9.0000000000001359
 
-**Publication No. 13**
+**Publication No. 16**
 
 **Publication Year:** 2024
 
@@ -211,7 +259,7 @@ title: Publications
 
 > **Citation:** Zhu L, Pan J, Mou W, Deng L, Zhu Y, Wang Y, Pareek G, Hyams E, Carneiro BA, Hadfield MJ et al.. Harnessing artificial intelligence for prostate cancer management. Cell Rep Med. 2024;5(4):101506. doi:10.1016/j.xcrm.2024.101506
 
-**Publication No. 14**
+**Publication No. 17**
 
 **Publication Year:** 2024
 
@@ -227,7 +275,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Xie J, Luo P, Chen R. What is the best approach to assessing generative AI in medicine?. Resuscitation. 2024;197:110164. doi:10.1016/j.resuscitation.2024.110164
 
-**Publication No. 15**
+**Publication No. 18**
 
 **Publication Year:** 2024
 
@@ -243,7 +291,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Lai Y, Lin J, Luo P. Language and cultural bias in AI: comparing the performance of large language models developed in different countries on Traditional Chinese Medicine highlights the need for localized models. J Transl Med. 2024;22(1):319. doi:10.1186/s12967-024-05128-4
 
-**Publication No. 16**
+**Publication No. 19**
 
 **Publication Year:** 2024
 
@@ -259,7 +307,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Wu K, Lai Y, Lin A, Yang T, Zhang J, Luo P. Multimodal ChatGPT-4V for Electrocardiogram Interpretation: Promise and Limitations. J Med Internet Res. 2024;26:e54607. doi:10.2196/54607
 
-**Publication No. 17**
+**Publication No. 20**
 
 **Publication Year:** 2024
 
@@ -275,7 +323,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Hong C, Yang T, Lai Y, Qi C, Lin A, Zhang J, Luo P. The Evaluation of Generative AI Should Include Repetition to Assess Stability. JMIR Mhealth Uhealth. 2024;12:e57978. doi:10.2196/57978
 
-**Publication No. 18**
+**Publication No. 21**
 
 **Publication Year:** 2024
 
@@ -291,7 +339,7 @@ title: Publications
 
 > **Citation:** Zhu L, Lai Y, Ta N, Cheng L, Chen R. Multimodal Approach in the Diagnosis of Urologic Malignancies: Critical Assessment of ChatGPT-4V's Image-Reading Capabilities. JCO Clin Cancer Inform. 2024;8:e2300275. doi:10.1200/CCI.23.00275
 
-**Publication No. 19**
+**Publication No. 22**
 
 **Publication Year:** 2023
 
@@ -307,7 +355,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Yang T, Chen R. ChatGPT can pass the AHA exams: Open-ended questions outperform multiple-choice format. Resuscitation. 2023;188:109783. doi:10.1016/j.resuscitation.2023.109783
 
-**Publication No. 20**
+**Publication No. 23**
 
 **Publication Year:** 2023
 
