@@ -9,7 +9,7 @@ title: Publications
 
 **Journal:** International journal of surgery (London, England), **IF: 12.5**
 
-**Title:** Performance Analysis of Large Language Models in Multi-Disease Detection from Chest Computed Tomography Reports: A Comparative Study
+**Title:** Analysis of Large Language Models in Multi-Disease Detection from Chest Computed Tomography Reports: A Comparative Study
 
 **Full Author:** Peng Luo, Chaofan Fan, Anghua Li, Tong Jiang, Aimin Jiang, Chang Qi, Wenyi Gan, Lingxuan Zhu, Weiming Mou, Dongqiang Zeng, Bufu Tang, Mingjia Xiao, Guangdi Chu, Zhenyu Liang, Junyi Shen, Zaoqu Liu, Ting Wei, Quan Cheng, Anqi Lin, Xin Chen
 
