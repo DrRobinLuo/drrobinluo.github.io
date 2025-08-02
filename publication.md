@@ -7,6 +7,22 @@ title: Publications
 
 **Publication Year:** 2025
 
+**Journal:** Interdisciplinary Medicine, **IF: 13.6**
+
+**Title:** Towards artificial intelligence-assisted digital pathology: A systematic evaluation of multimodal generative artificial intelligence in clear cell renal cell carcinoma assessment
+
+**Full Author:** Renyi Lu, Junyi Shen, Aimin Jiang, Wenjin Chen, Chang Qi, Li Chen, Lingxuan Zhu, Weiming Mou, Wenyi Gan, Dongqiang Zeng, Bufu Tang, Mingjia Xiao, Guangdi Chu, Shengkun Peng, Hank Z. H. Wong, Lin Zhang, Hengguo Zhang, Xinpei Deng, Quan Cheng, Xingang Cui, Anqi Lin, Peng Luo
+
+**Link:** <https://doi.org/10.1002/INMD.20250103>
+
+> **Summary:** This study systematically evaluates three state-of-the-art multimodal generative AI models (GPT-4o, Claude-3.5-Sonnet, Gemini-1.5-Pro) for pathological grading and prognostic prediction in clear cell renal cell carcinoma (ccRCC). Using 499 TCGA slides and 349 external samples, the study applies a standardized feature extraction protocol and robust validation, comparing GenAI models with classical deep learning (ResNet-50, DenseNet-121, ABMIL) and image analysis tools. Claude-3.5-Sonnet achieved highest stability (ICC=0.76) and micro-average AUC=0.87, outperforming classical methods. The best machine learning prognostic model attained an average C-index of 0.739, and key features included stage, calcification, sarcomatoid differentiation, and vascular networks. The work demonstrates that advanced GenAI enhances accuracy and consistency in ccRCC pathology and holds strong clinical promise, especially for resource-limited settings
+
+> **Citation:** Lu R, Shen J, Jiang A, Chen W, Qi C, Chen L, Zhu L, Mou W, Gan W, Zeng D, Tang B, Xiao M, Chu G, Peng S, Wong HZH, Zhang L, Zhang H, Deng X, Cheng Q, Cui X, Lin A, Luo P. Towards artificial intelligence‐assisted digital pathology: A systematic evaluation of multimodal generative artificial intelligence in clear cell renal cell carcinoma assessment. Interdiscip Med. 2025;e20250103. https://doi.org/10.1002/INMD.20250103
+
+**Publication No. 2**
+
+**Publication Year:** 2025
+
 **Journal:** International journal of surgery (London, England), **IF: 12.5**
 
 **Title:** Performance Analysis of Large Language Models in Multi-Disease Detection from Chest Computed Tomography Reports: A Comparative Study
@@ -19,7 +35,7 @@ title: Publications
 
 > **Citation:** Luo P, Fan C, Li A, Jiang T, Jiang A, Qi C, et al. Performance Analysis of Large Language Models in Multi-Disease Detection from Chest Computed Tomography Reports: A Comparative Study. Int J Surg. 2024;110(12):7890-901.
 
-**Publication No. 2**
+**Publication No. 3**
 
 **Publication Year:** 2025
 
@@ -35,7 +51,7 @@ title: Publications
 
 > **Citation:** Shen J, Feng S, Zhang P, Qi C, Liu Z, Feng Y, et al. Evaluating generative AI models for explainable pathological feature extraction in lung adenocarcinoma: Grading assessment and prognostic model construction. Int J Surg. 2024;110(11):7234-45.
 
-**Publication No. 3**
+**Publication No. 4**
 
 **Publication Year:** 2025
 
@@ -51,7 +67,7 @@ title: Publications
 
 > **Citation:** Gan W, Ouyang J, She G, Xue Z, Zhu L, Lin A, Mou W, Jiang A, Qi C, Cheng Q et al.. ChatGPT's role in alleviating anxiety in total knee arthroplasty consent process: a randomized controlled trial pilot study. Int J Surg. 2025;:. doi:10.1097/JS9.0000000000002223
 
-**Publication No. 4**
+**Publication No. 5**
 
 **Publication Year:** 2025
 
@@ -67,7 +83,7 @@ title: Publications
 
 > **Citation:** Chen J, Lin A, Jiang A, Qi C, Liu Z, Cheng Q, Yuan S, Luo P. Computational frameworks transform antagonism to synergy in optimizing combination therapies. NPJ Digit Med. 2025;8(1):44. doi:10.1038/s41746-025-01435-2
 
-**Publication No. 5**
+**Publication No. 6**
 
 **Publication Year:** 2025
 
@@ -83,7 +99,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Luo P. Ensuring Consistency and Accuracy in Evaluating ChatGPT-4 for Clinical Recommendations. Clin Gastroenterol Hepatol. 2025;23(1):189-190. doi:10.1016/j.cgh.2024.05.028
 
-**Publication No. 6**
+**Publication No. 7**
 
 **Publication Year:** 2025
 
@@ -99,7 +115,23 @@ title: Publications
 
 > **Citation:** Huang L, Lin A, Li H, Wang Q, Shen J, Jiang A, et al. Unveiling Large Multimodal Models in Pulmonary CT: A Comparative Assessment of Generative AI Performance in Lung Cancer Diagnostics. View. 2024;5(3):234-45.
 
-**Publication No. 7**
+**Publication No. 8**
+
+**Publication Year:** 2025
+
+**Journal:** Briefings in Bioinformatics, **IF: 7.7**
+
+**Title:** Bridging artificial intelligence and biological sciences: a comprehensive review of large language models in bioinformatics
+
+**Full Author:** Anqi Lin, Junpu Ye, Chang Qi, Lingxuan Zhu, Weiming Mou, Wenyi Gan, Dongqiang Zeng, Bufu Tang, Mingjia Xiao, Guangdi Chu, Shengkun Peng, Hank Z.H. Wong, Lin Zhang, Hengguo Zhang, Xinpei Deng, Kailai Li, Jian Zhang, Aimin Jiang, Zhengrui Li, Peng Luo
+
+**Link:** <https://doi.org/10.1093/bib/bbaf357>
+
+> **Summary:** Large language models (LLMs) have shown substantial applications and development potential in bioinformatics, particularly for complex biological data analysis. This review systematically examines LLM development and applications in bioinformatics, with emphasis on protein and nucleic acid structure prediction, omics analysis, drug design and screening, and biomedical literature mining. The review also highlights LLM strengths in end-to-end learning and knowledge transfer, as well as current challenges such as model interpretability and data bias. It explores future LLM potentials in cross-modal learning and interdisciplinary innovation, aiming to position LLMs as essential bioinformatics research tools and guide further advances in the biomedical field
+
+> **Citation:** Lin A, Ye J, Qi C, Zhu L, Mou W, Gan W, Zeng D, Tang B, Xiao M, Chu G, Peng S, Wong HZH, Zhang L, Zhang H, Deng X, Li K, Zhang J, Jiang A, Li Z, Luo P. Bridging artificial intelligence and biological sciences: a comprehensive review of large language models in bioinformatics. Brief Bioinform. 2025;bbaf357. https://doi.org/10.1093/bib/bbaf357
+
+**Publication No. 9**
 
 **Publication Year:** 2025
 
@@ -115,7 +147,7 @@ title: Publications
 
 > **Citation:** Lin A, Ye J, Qi C, Zhu L, Mou W, Gan W, Zeng D, Tang B, Xiao M, Chu G, Peng S, Wong HZH, Zhang L, Zhang H, Deng X, Li K, Zhang J, Jiang A, Li Z, Luo P.
 
-**Publication No. 8**
+**Publication No. 10**
 
 **Publication Year:** 2025
 
@@ -131,7 +163,39 @@ title: Publications
 
 > **Citation:** Huang L, Lin A, Zhang J, Luo P, Wei T. Harnessing large multimodal models in pulmonary CT: the generative AI edge in lung cancer diagnostics. Lancet Reg Health West Pac. 2024;55:101336.
 
-**Publication No. 9**
+**Publication No. 11**
+
+**Publication Year:** 2025
+
+**Journal:** Chinese Medical Journal, **IF: 7.3**
+
+**Title:** Optimization of Biosafety Laboratory Management via an AI-Driven Intelligent Systems
+
+**Full Author:** Chang Qi, Anqi Lin, Anghua Li, Peng Luo, Shuofeng Yuan
+
+**Link:** <https://doi.org/10.1097/CM9.0000000000003760>
+
+> **Summary:** Biosafety laboratories are crucial for safe research with pathogenic microorganisms, enabling significant advances in microbiology and epidemiology to address emerging infectious diseases. However, laboratory work carries inherent risks without stringent biosafety protocols and training. This study explores whether ChatGPT and other generative AI models can effectively answer biosafety-related questions and enhance laboratory management. Using a dataset of 62 text-based and 8 image-based questions, the performance of several large language models (LLMs) was evaluated. Models such as Gemini Pro, Claude-3, Claude-2, and GPT-4 achieved high accuracy in text-based tasks, while image-based performance was slightly lower. The study discusses the transformative potential of AI-driven systems for real-time monitoring, personalized training, workflow documentation, and predictive maintenance in biosafety labs. Despite their promise, current AI limitations include bias, limited specialized data, and real-time constraints, along with ethical concerns regarding data security and transparency. Recommendations are provided for overcoming technical and ethical challenges to optimize the integration of generative AI in biosafety laboratory management.
+
+> **Citation:** Qi C, Lin AQ, Li AH, Luo P, Yuan SF. Optimization of Biosafety Laboratory Management via an AI-Driven Intelligent Systems. Chin Med J. 2025;XXX:1–4. doi:10.1097/CM9.0000000000003760
+
+**Publication No. 12**
+
+**Publication Year:** 2025
+
+**Journal:** Current Molecular Pharmacology, **IF: 2.9**
+
+**Title:** Large language models in drug development: Current progress and future directions
+
+**Full Author:** Anqi Lin, Xiuhui Fang, Aimin Jiang, Chang Qi, Wenyi Gan, Lingxuan Zhu, Weiming Mou, Dongqiang Zeng, Mingjia Xiao, Guangdi Chu, Shengkun Peng, Hank Z.H. Wong, Lin Zhang, Hengguo Zhang, Xinpei Deng, Quan Cheng, Haoran Zhang, Zhuocheng Zhong, Zhengrui Li, Bufu Tang, Peng Luo
+
+**Link:** <https://doi.org/10.1016/j.cmp.2025.06.003>
+
+> **Summary:** This correspondence summarizes the current progress and future directions of large language models (LLMs) in drug development. LLMs have transformed key steps in drug development—including target identification, molecular design and optimization, drug repurposing, preclinical studies, and clinical trials—by improving efficiency, reducing costs, and increasing success rates. The paper reviews current representative applications such as Llama-Gram, 3DSMILES-GPT, GPCR LLM, and others, as well as innovative methodological frameworks. It also analyzes key challenges regarding data quality, reliability, explainability, high computing requirements, and regulatory/ethical hurdles, and offers recommendations for addressing technical and social limitations to unlock the full potential of LLMs in pharma
+
+> **Citation:** Lin A, Fang X, Jiang A, Qi C, Gan W, Zhu L, Mou W, Zeng D, Xiao M, Chu G, Peng S, Wong HZH, Zhang L, Zhang H, Deng X, Cheng Q, Zhang H, Zhong Z, Li Z, Tang B, Luo P. Large language models in drug development: Current progress and future directions. Curr Mol Pharmacol. 2025;18:1–5. https://doi.org/10.1016/j.cmp.2025.06.003
+
+**Publication No. 13**
 
 **Publication Year:** 2025
 
@@ -147,7 +211,7 @@ title: Publications
 
 > **Citation:** Lin A, Fang X, Jiang A, Qi C, Gan W, Zhu L, Mou W, Zeng D, Xiao M, Chu G, Peng S, Wong HZH, Zhang L, Zhang H, Deng X, Cheng Q, Zhang H, Zhong Z, Li Z, Tang B, Luo P
 
-**Publication No. 10**
+**Publication No. 14**
 
 **Publication Year:** 2025
 
@@ -163,7 +227,7 @@ title: Publications
 
 > **Citation:** Zhu L, Lai Y, Xie J, Mou W, Huang L, Qi C, Yang T, Jiang A, Gan W, Zeng D, Tang B, Xiao M, Chu G, Liu Z, Cheng Q, Lin A, Luo P
 
-**Publication No. 11**
+**Publication No. 15**
 
 **Publication Year:** 2024
 
@@ -179,7 +243,7 @@ title: Publications
 
 > **Citation:** Zhu L, Lai Y, Mou W, Zhang H, Lin A, Qi C, Yang T, Xu L, Zhang J, Luo P. ChatGPT's ability to generate realistic experimental images poses a new challenge to academic integrity. J Hematol Oncol. 2024;17(1):27. doi:10.1186/s13045-024-01543-8
 
-**Publication No. 12**
+**Publication No. 16**
 
 **Publication Year:** 2024
 
@@ -195,7 +259,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Luo P. Ensuring Safety and Consistency in Artificial Intelligence Chatbot Responses. JAMA Oncol. 2024;10(11):1597. doi:10.1001/jamaoncol.2024.4324
 
-**Publication No. 13**
+**Publication No. 17**
 
 **Publication Year:** 2024
 
@@ -211,7 +275,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Luo P. Potential of Large Language Models as Tools Against Medical Disinformation. JAMA Intern Med. 2024;184(4):450. doi:10.1001/jamainternmed.2024.0020
 
-**Publication No. 14**
+**Publication No. 18**
 
 **Publication Year:** 2024
 
@@ -227,7 +291,7 @@ title: Publications
 
 > **Citation:** Lin A, Zhu L, Mou W, Yuan Z, Cheng Q, Jiang A, Luo P. Advancing generative artificial intelligence in medicine: recommendations for standardized evaluation. Int J Surg. 2024;110(8):4547-4551. doi:10.1097/JS9.0000000000001583
 
-**Publication No. 15**
+**Publication No. 19**
 
 **Publication Year:** 2024
 
@@ -243,7 +307,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Lai Y, Chen J, Lin S, Xu L, Lin J, Guo Z, Yang T, Lin A et al.. Step into the era of large multimodal models: a pilot study on ChatGPT-4V(ision)'s ability to interpret radiological images. Int J Surg. 2024;110(7):4096-4102. doi:10.1097/JS9.0000000000001359
 
-**Publication No. 16**
+**Publication No. 20**
 
 **Publication Year:** 2024
 
@@ -259,7 +323,7 @@ title: Publications
 
 > **Citation:** Zhu L, Pan J, Mou W, Deng L, Zhu Y, Wang Y, Pareek G, Hyams E, Carneiro BA, Hadfield MJ et al.. Harnessing artificial intelligence for prostate cancer management. Cell Rep Med. 2024;5(4):101506. doi:10.1016/j.xcrm.2024.101506
 
-**Publication No. 17**
+**Publication No. 21**
 
 **Publication Year:** 2024
 
@@ -275,7 +339,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Xie J, Luo P, Chen R. What is the best approach to assessing generative AI in medicine?. Resuscitation. 2024;197:110164. doi:10.1016/j.resuscitation.2024.110164
 
-**Publication No. 18**
+**Publication No. 22**
 
 **Publication Year:** 2024
 
@@ -291,7 +355,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Lai Y, Lin J, Luo P. Language and cultural bias in AI: comparing the performance of large language models developed in different countries on Traditional Chinese Medicine highlights the need for localized models. J Transl Med. 2024;22(1):319. doi:10.1186/s12967-024-05128-4
 
-**Publication No. 19**
+**Publication No. 23**
 
 **Publication Year:** 2024
 
@@ -307,7 +371,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Wu K, Lai Y, Lin A, Yang T, Zhang J, Luo P. Multimodal ChatGPT-4V for Electrocardiogram Interpretation: Promise and Limitations. J Med Internet Res. 2024;26:e54607. doi:10.2196/54607
 
-**Publication No. 20**
+**Publication No. 24**
 
 **Publication Year:** 2024
 
@@ -323,7 +387,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Hong C, Yang T, Lai Y, Qi C, Lin A, Zhang J, Luo P. The Evaluation of Generative AI Should Include Repetition to Assess Stability. JMIR Mhealth Uhealth. 2024;12:e57978. doi:10.2196/57978
 
-**Publication No. 21**
+**Publication No. 25**
 
 **Publication Year:** 2024
 
@@ -339,7 +403,7 @@ title: Publications
 
 > **Citation:** Zhu L, Lai Y, Ta N, Cheng L, Chen R. Multimodal Approach in the Diagnosis of Urologic Malignancies: Critical Assessment of ChatGPT-4V's Image-Reading Capabilities. JCO Clin Cancer Inform. 2024;8:e2300275. doi:10.1200/CCI.23.00275
 
-**Publication No. 22**
+**Publication No. 26**
 
 **Publication Year:** 2023
 
@@ -355,7 +419,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Yang T, Chen R. ChatGPT can pass the AHA exams: Open-ended questions outperform multiple-choice format. Resuscitation. 2023;188:109783. doi:10.1016/j.resuscitation.2023.109783
 
-**Publication No. 23**
+**Publication No. 27**
 
 **Publication Year:** 2023
 
