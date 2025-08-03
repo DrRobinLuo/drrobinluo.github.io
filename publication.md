@@ -391,6 +391,22 @@ title: Publications
 
 **Publication Year:** 2024
 
+**Journal:** Academic Medicine, **IF: 5.2**
+
+**Title:** The Potential of Using ChatGPT-4 Vision for Medical Education
+
+**Full Author:** Lingxuan Zhu, Haoran Zhang, Peng Luo
+
+**Link:** <https://doi.org/10.1097/ACM.0000000000005873>
+
+> **Summary:** Ensuring the authenticity and reliability of scientific research is a critical responsibility in academic medicine, as image manipulation severely undermines scientific integrity and may misdirect resources and further investigations. Recent data indicate that approximately 1 in 25 biomedical articles contains inappropriate duplicate images, prompting a rising number of retractions. Advances in artificial intelligence (AI), such as the large multimodal model ChatGPT-4 Vision (ChatGPT-4 V), offer novel tools for detecting image manipulation. In this study, we assessed ChatGPT-4 V's capability to identify manipulated images by testing it on representative samples from 12 biomedical articles suspected of containing image duplication or fraudulent modifications. The model performed well in identifying simple forms of image duplication and splicing, but its effectiveness declined with more complex manipulations such as rotation and flipping. While the integration of such AI systems holds promise for enhancing research oversight, important challenges remain, notably the potential for false positives and negatives and the limited representativeness of training data for certain research fields. Close collaboration between medical experts and AI developers is needed to optimize these tools' reliability and applicability. Our preliminary findings underscore the potential of multimodal AI in protecting scientific integrity and highlight the continuing essential role of human expertise in the research validation process.
+
+> **Citation:** Zhu L, Zhang H, Luo P. The Potential of Using ChatGPT-4 Vision for Detecting Image Manipulation in Academic Medicine Articles. Academic Medicine. 2024 Dec 1;99(12):1320-1.
+
+**Publication No. 26**
+
+**Publication Year:** 2024
+
 **Journal:** JCO clinical cancer informatics, **IF: 3.3**
 
 **Title:** Multimodal Approach in the Diagnosis of Urologic Malignancies: Critical Assessment of ChatGPT-4V's Image-Reading Capabilities
@@ -403,7 +419,7 @@ title: Publications
 
 > **Citation:** Zhu L, Lai Y, Ta N, Cheng L, Chen R. Multimodal Approach in the Diagnosis of Urologic Malignancies: Critical Assessment of ChatGPT-4V's Image-Reading Capabilities. JCO Clin Cancer Inform. 2024;8:e2300275. doi:10.1200/CCI.23.00275
 
-**Publication No. 26**
+**Publication No. 27**
 
 **Publication Year:** 2023
 
@@ -419,7 +435,7 @@ title: Publications
 
 > **Citation:** Zhu L, Mou W, Yang T, Chen R. ChatGPT can pass the AHA exams: Open-ended questions outperform multiple-choice format. Resuscitation. 2023;188:109783. doi:10.1016/j.resuscitation.2023.109783
 
-**Publication No. 27**
+**Publication No. 28**
 
 **Publication Year:** 2023
 
